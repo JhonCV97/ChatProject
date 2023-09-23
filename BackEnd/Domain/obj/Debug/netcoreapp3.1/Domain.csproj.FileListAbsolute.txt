@@ -1,0 +1,110 @@
+C:\Users\1053856088\source\repos\IADirectory\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\1053856088\source\repos\IADirectory\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\1053856088\source\repos\IADirectory\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\1053856088\source\repos\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\Users\1053856088\source\repos\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1053856088\source\repos\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\1053856088\source\repos\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\1053856088\source\repos\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\1053856088\source\repos\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\1053856088\source\repos\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\1053856088\Downloads\IADirectory\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\1053856088\Downloads\IADirectory\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\1053856088\Downloads\IADirectory\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\1053856088\Downloads\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\Users\1053856088\Downloads\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1053856088\Downloads\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\1053856088\Downloads\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\1053856088\Downloads\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\1053856088\Downloads\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\1053856088\Downloads\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+D:\Descargas\IADirectory\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\Descargas\IADirectory\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Descargas\IADirectory\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Descargas\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+D:\Descargas\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\Descargas\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\Descargas\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\Descargas\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\Descargas\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\egira\Downloads\IADirectory\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\egira\Downloads\IADirectory\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\egira\Downloads\IADirectory\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\egira\Downloads\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\Users\egira\Downloads\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egira\Downloads\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\egira\Downloads\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\egira\Downloads\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\egira\Downloads\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\egira\Downloads\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+D:\Front\IADirectory\IADirectory\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\Front\IADirectory\IADirectory\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Front\IADirectory\IADirectory\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Front\IADirectory\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+D:\Front\IADirectory\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Front\IADirectory\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\Front\IADirectory\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\Front\IADirectory\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\Front\IADirectory\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\Front\IADirectory\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\BackEnd\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\BackEnd\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\BackEnd\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\BackEnd\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\BackEnd\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\BackEnd\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\BackEnd\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\BackEnd\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\BackEnd\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\BackEnd\Domain\obj\Debug\netcoreapp3.1\Domain.pdb

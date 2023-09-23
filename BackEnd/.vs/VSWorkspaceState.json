@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Application",
+    "\\Application\\Services\\User",
+    "\\Domain",
+    "\\Domain\\Models"
+  ],
+  "SelectedNode": "\\Domain\\Models\\ArtificialIntelligence.cs",
+  "PreviewInSolutionExplorer": false
+}

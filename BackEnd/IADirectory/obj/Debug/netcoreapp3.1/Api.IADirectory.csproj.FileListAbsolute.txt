@@ -1,0 +1,900 @@
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.exe
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.deps.json
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.runtimeconfig.json
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.runtimeconfig.dev.json
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.pdb
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Infra.Data.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Infra.Data.pdb
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.csproj.AssemblyReference.cache
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.AssemblyInfoInputs.cache
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.AssemblyInfo.cs
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.csproj.CoreCompileInputs.cache
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\Api.IADirectory.StaticWebAssets.Manifest.cache
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\Api.IADirectory.StaticWebAssets.xml
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\scopedcss\bundle\Api.IADirectory.styles.css
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.RazorTargetAssemblyInfo.cache
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.csproj.CopyComplete
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.pdb
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.genruntimeconfig.cache
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.xml
+C:\Users\1053856088\source\repos\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.xml
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.exe
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.deps.json
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.runtimeconfig.json
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.runtimeconfig.dev.json
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.pdb
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.xml
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Infra.Data.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Infra.Data.pdb
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.csproj.AssemblyReference.cache
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.AssemblyInfoInputs.cache
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.AssemblyInfo.cs
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.csproj.CoreCompileInputs.cache
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\Api.IADirectory.StaticWebAssets.Manifest.cache
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\Api.IADirectory.StaticWebAssets.xml
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\scopedcss\bundle\Api.IADirectory.styles.css
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.RazorTargetAssemblyInfo.cache
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.csproj.CopyComplete
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.dll
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.xml
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.pdb
+C:\Users\1053856088\Downloads\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.genruntimeconfig.cache
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.StaticWebAssets.xml
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.exe
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.deps.json
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.runtimeconfig.json
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.runtimeconfig.dev.json
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.pdb
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.xml
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Infra.Data.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Infra.Data.pdb
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.csproj.AssemblyReference.cache
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.AssemblyInfoInputs.cache
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.AssemblyInfo.cs
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.csproj.CoreCompileInputs.cache
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\Api.IADirectory.StaticWebAssets.Manifest.cache
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\Api.IADirectory.StaticWebAssets.Pack.cache
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Api.IADirectory.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Api.IADirectory.props
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Api.IADirectory.props
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Api.IADirectory.props
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.RazorTargetAssemblyInfo.cache
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.csproj.CopyComplete
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.xml
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.pdb
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.genruntimeconfig.cache
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.StaticWebAssets.xml
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.exe
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.deps.json
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.runtimeconfig.json
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.runtimeconfig.dev.json
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.pdb
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.xml
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\MediatR.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Application.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Infra.Data.dll
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Infra.Data.pdb
+D:\Descargas\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Application.pdb
+D:\Descargas\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.csproj.AssemblyReference.cache
+D:\Descargas\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.AssemblyInfoInputs.cache
+D:\Descargas\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.AssemblyInfo.cs
+D:\Descargas\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.csproj.CoreCompileInputs.cache
+D:\Descargas\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.MvcApplicationPartsAssemblyInfo.cs
+D:\Descargas\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.MvcApplicationPartsAssemblyInfo.cache
+D:\Descargas\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\Api.IADirectory.StaticWebAssets.Manifest.cache
+D:\Descargas\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.RazorTargetAssemblyInfo.cache
+D:\Descargas\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.csproj.CopyComplete
+D:\Descargas\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.dll
+D:\Descargas\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.xml
+D:\Descargas\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.pdb
+D:\Descargas\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.genruntimeconfig.cache
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.exe
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.deps.json
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.runtimeconfig.json
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.runtimeconfig.dev.json
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.pdb
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.xml
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Infra.Data.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Infra.Data.pdb
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.csproj.AssemblyReference.cache
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.AssemblyInfoInputs.cache
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.AssemblyInfo.cs
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.csproj.CoreCompileInputs.cache
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\Api.IADirectory.StaticWebAssets.Manifest.cache
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\Api.IADirectory.StaticWebAssets.xml
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\scopedcss\bundle\Api.IADirectory.styles.css
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.RazorTargetAssemblyInfo.cache
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.csproj.CopyComplete
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.xml
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.pdb
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.genruntimeconfig.cache
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.StaticWebAssets.xml
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.exe
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.deps.json
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.runtimeconfig.json
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.runtimeconfig.dev.json
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.pdb
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.xml
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Infra.Data.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Infra.Data.pdb
+C:\Users\egira\Downloads\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\egira\Downloads\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.csproj.AssemblyReference.cache
+C:\Users\egira\Downloads\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egira\Downloads\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.AssemblyInfoInputs.cache
+C:\Users\egira\Downloads\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.AssemblyInfo.cs
+C:\Users\egira\Downloads\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.csproj.CoreCompileInputs.cache
+C:\Users\egira\Downloads\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\egira\Downloads\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\egira\Downloads\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\Api.IADirectory.StaticWebAssets.Manifest.cache
+C:\Users\egira\Downloads\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.RazorTargetAssemblyInfo.cache
+C:\Users\egira\Downloads\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.csproj.CopyComplete
+C:\Users\egira\Downloads\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.dll
+C:\Users\egira\Downloads\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.xml
+C:\Users\egira\Downloads\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.pdb
+C:\Users\egira\Downloads\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.genruntimeconfig.cache
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.StaticWebAssets.xml
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.exe
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.deps.json
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.runtimeconfig.json
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.runtimeconfig.dev.json
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.pdb
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.xml
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Infra.Data.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Infra.Data.pdb
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.csproj.AssemblyReference.cache
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.AssemblyInfoInputs.cache
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.AssemblyInfo.cs
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.csproj.CoreCompileInputs.cache
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\Api.IADirectory.StaticWebAssets.Manifest.cache
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\Api.IADirectory.StaticWebAssets.Pack.cache
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Api.IADirectory.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Api.IADirectory.props
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Api.IADirectory.props
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Api.IADirectory.props
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.RazorTargetAssemblyInfo.cache
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.csproj.CopyComplete
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.xml
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.pdb
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.genruntimeconfig.cache
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.StaticWebAssets.xml
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.exe
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.deps.json
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.runtimeconfig.json
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.runtimeconfig.dev.json
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.pdb
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.xml
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\MediatR.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Application.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Infra.Data.dll
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Infra.Data.pdb
+D:\Front\IADirectory\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Application.pdb
+D:\Front\IADirectory\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.csproj.AssemblyReference.cache
+D:\Front\IADirectory\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Front\IADirectory\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.AssemblyInfoInputs.cache
+D:\Front\IADirectory\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.AssemblyInfo.cs
+D:\Front\IADirectory\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.csproj.CoreCompileInputs.cache
+D:\Front\IADirectory\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.MvcApplicationPartsAssemblyInfo.cs
+D:\Front\IADirectory\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.MvcApplicationPartsAssemblyInfo.cache
+D:\Front\IADirectory\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\Api.IADirectory.StaticWebAssets.Manifest.cache
+D:\Front\IADirectory\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\Api.IADirectory.StaticWebAssets.Pack.cache
+D:\Front\IADirectory\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Api.IADirectory.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Front\IADirectory\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Api.IADirectory.props
+D:\Front\IADirectory\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Api.IADirectory.props
+D:\Front\IADirectory\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Api.IADirectory.props
+D:\Front\IADirectory\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.RazorTargetAssemblyInfo.cache
+D:\Front\IADirectory\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.csproj.CopyComplete
+D:\Front\IADirectory\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.dll
+D:\Front\IADirectory\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.xml
+D:\Front\IADirectory\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.pdb
+D:\Front\IADirectory\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.genruntimeconfig.cache
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.StaticWebAssets.xml
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.exe
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.deps.json
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.runtimeconfig.json
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.runtimeconfig.dev.json
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.pdb
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.xml
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Infra.Data.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Infra.Data.pdb
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.csproj.AssemblyReference.cache
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.AssemblyInfoInputs.cache
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.AssemblyInfo.cs
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.csproj.CoreCompileInputs.cache
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\Api.IADirectory.StaticWebAssets.Manifest.cache
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\Api.IADirectory.StaticWebAssets.Pack.cache
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Api.IADirectory.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Api.IADirectory.props
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Api.IADirectory.props
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Api.IADirectory.props
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.RazorTargetAssemblyInfo.cache
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.csproj.CopyComplete
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.xml
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.pdb
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.genruntimeconfig.cache
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.StaticWebAssets.xml
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.exe
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.deps.json
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.runtimeconfig.json
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.runtimeconfig.dev.json
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.pdb
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Api.IADirectory.xml
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Infra.Data.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Infra.Data.pdb
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.csproj.AssemblyReference.cache
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.AssemblyInfoInputs.cache
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.AssemblyInfo.cs
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.csproj.CoreCompileInputs.cache
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\Api.IADirectory.StaticWebAssets.Manifest.cache
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\Api.IADirectory.StaticWebAssets.Pack.cache
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Api.IADirectory.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Api.IADirectory.props
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Api.IADirectory.props
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Api.IADirectory.props
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.RazorTargetAssemblyInfo.cache
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.csproj.CopyComplete
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.xml
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.pdb
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\IADirectory\obj\Debug\netcoreapp3.1\Api.IADirectory.genruntimeconfig.cache

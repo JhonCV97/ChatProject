@@ -1,0 +1,198 @@
+C:\Users\1053856088\source\repos\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.deps.json
+C:\Users\1053856088\source\repos\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.runtimeconfig.json
+C:\Users\1053856088\source\repos\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.runtimeconfig.dev.json
+C:\Users\1053856088\source\repos\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.dll
+C:\Users\1053856088\source\repos\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.pdb
+C:\Users\1053856088\source\repos\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\1053856088\source\repos\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\1053856088\source\repos\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\1053856088\source\repos\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\1053856088\source\repos\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.AssemblyReference.cache
+C:\Users\1053856088\source\repos\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1053856088\source\repos\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.AssemblyInfoInputs.cache
+C:\Users\1053856088\source\repos\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.AssemblyInfo.cs
+C:\Users\1053856088\source\repos\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\1053856088\source\repos\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.CopyComplete
+C:\Users\1053856088\source\repos\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.dll
+C:\Users\1053856088\source\repos\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.pdb
+C:\Users\1053856088\source\repos\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.genruntimeconfig.cache
+C:\Users\1053856088\Downloads\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.deps.json
+C:\Users\1053856088\Downloads\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.runtimeconfig.json
+C:\Users\1053856088\Downloads\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.runtimeconfig.dev.json
+C:\Users\1053856088\Downloads\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.dll
+C:\Users\1053856088\Downloads\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.pdb
+C:\Users\1053856088\Downloads\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\1053856088\Downloads\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\1053856088\Downloads\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\1053856088\Downloads\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\1053856088\Downloads\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.AssemblyReference.cache
+C:\Users\1053856088\Downloads\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1053856088\Downloads\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.AssemblyInfoInputs.cache
+C:\Users\1053856088\Downloads\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.AssemblyInfo.cs
+C:\Users\1053856088\Downloads\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\1053856088\Downloads\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.CopyComplete
+C:\Users\1053856088\Downloads\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.dll
+C:\Users\1053856088\Downloads\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.pdb
+C:\Users\1053856088\Downloads\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.genruntimeconfig.cache
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.deps.json
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.runtimeconfig.json
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.runtimeconfig.dev.json
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.pdb
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.AssemblyInfo.cs
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.CopyComplete
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.dll
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.pdb
+C:\Users\Jhon\Downloads\IADirectory (1)\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.genruntimeconfig.cache
+D:\Descargas\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.deps.json
+D:\Descargas\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.runtimeconfig.json
+D:\Descargas\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.runtimeconfig.dev.json
+D:\Descargas\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.dll
+D:\Descargas\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.pdb
+D:\Descargas\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Application.dll
+D:\Descargas\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Descargas\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Application.pdb
+D:\Descargas\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Descargas\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.AssemblyReference.cache
+D:\Descargas\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.AssemblyInfoInputs.cache
+D:\Descargas\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.AssemblyInfo.cs
+D:\Descargas\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.CoreCompileInputs.cache
+D:\Descargas\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.CopyComplete
+D:\Descargas\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.dll
+D:\Descargas\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.pdb
+D:\Descargas\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.genruntimeconfig.cache
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.deps.json
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.runtimeconfig.json
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.runtimeconfig.dev.json
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.pdb
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.AssemblyReference.cache
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.AssemblyInfoInputs.cache
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.AssemblyInfo.cs
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.CopyComplete
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.dll
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.pdb
+C:\Users\1053856088\Downloads\IADirectory1\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.genruntimeconfig.cache
+C:\Users\egira\Downloads\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.deps.json
+C:\Users\egira\Downloads\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.runtimeconfig.json
+C:\Users\egira\Downloads\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.runtimeconfig.dev.json
+C:\Users\egira\Downloads\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.dll
+C:\Users\egira\Downloads\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.pdb
+C:\Users\egira\Downloads\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\egira\Downloads\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\egira\Downloads\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\egira\Downloads\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\egira\Downloads\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.AssemblyReference.cache
+C:\Users\egira\Downloads\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egira\Downloads\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.AssemblyInfoInputs.cache
+C:\Users\egira\Downloads\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.AssemblyInfo.cs
+C:\Users\egira\Downloads\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\egira\Downloads\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.CopyComplete
+C:\Users\egira\Downloads\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.dll
+C:\Users\egira\Downloads\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.pdb
+C:\Users\egira\Downloads\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.genruntimeconfig.cache
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.deps.json
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.runtimeconfig.json
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.runtimeconfig.dev.json
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.pdb
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.AssemblyInfo.cs
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.CopyComplete
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.dll
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.pdb
+C:\Users\Jhon\Downloads\IADirectory (2) (1)\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.genruntimeconfig.cache
+D:\Front\IADirectory\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.deps.json
+D:\Front\IADirectory\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.runtimeconfig.json
+D:\Front\IADirectory\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.runtimeconfig.dev.json
+D:\Front\IADirectory\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.dll
+D:\Front\IADirectory\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.pdb
+D:\Front\IADirectory\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Application.dll
+D:\Front\IADirectory\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Front\IADirectory\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Application.pdb
+D:\Front\IADirectory\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Front\IADirectory\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.AssemblyReference.cache
+D:\Front\IADirectory\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Front\IADirectory\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.AssemblyInfoInputs.cache
+D:\Front\IADirectory\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.AssemblyInfo.cs
+D:\Front\IADirectory\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.CoreCompileInputs.cache
+D:\Front\IADirectory\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.CopyComplete
+D:\Front\IADirectory\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.dll
+D:\Front\IADirectory\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.pdb
+D:\Front\IADirectory\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.genruntimeconfig.cache
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.deps.json
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.runtimeconfig.json
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.runtimeconfig.dev.json
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.pdb
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\Infra.Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.AssemblyInfo.cs
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.CopyComplete
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.dll
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.pdb
+C:\Users\Jhon\Downloads\IADirectory (4)\IADirectory\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.genruntimeconfig.cache
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.deps.json
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.runtimeconfig.json
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.runtimeconfig.dev.json
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.pdb
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\Infra.Data\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\Infra.Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\Infra.Data\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\Infra.Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.AssemblyInfo.cs
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.CopyComplete
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.dll
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.pdb
+C:\Users\Jhon\Documents\GESTIÓN DE PROYECTOS DE SOFTWARE\GitHub\IADirectory\BackEnd\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.genruntimeconfig.cache
+C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\BackEnd\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.deps.json
+C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\BackEnd\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.runtimeconfig.json
+C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\BackEnd\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.runtimeconfig.dev.json
+C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\BackEnd\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.dll
+C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\BackEnd\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.pdb
+C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\BackEnd\Infra.Data\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\BackEnd\Infra.Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\BackEnd\Infra.Data\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\BackEnd\Infra.Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\BackEnd\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\BackEnd\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\BackEnd\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\BackEnd\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.AssemblyInfo.cs
+C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\BackEnd\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\BackEnd\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.CopyComplete
+C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\BackEnd\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.dll
+C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\BackEnd\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.pdb
+C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\BackEnd\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.genruntimeconfig.cache

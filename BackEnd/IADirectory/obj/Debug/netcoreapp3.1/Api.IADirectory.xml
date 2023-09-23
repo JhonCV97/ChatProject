@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Api.IADirectory</name>
+    </assembly>
+    <members>
+        <member name="M:Api.IADirectory.Controllers.ArtificialIntelligenceController.PostArtificialIntelligence(Application.Cqrs.ArtificialIntelligence.Commands.PostArtificialIntelligenceCommand)">
+            <summary>
+            Agrega una nueva inteligencia Artificial en la base de datos
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Api.IADirectory.Controllers.ArtificialIntelligenceController.GetArtificialIntelligence(Application.Cqrs.ArtificialIntelligence.Queries.GetArtificialIntelligenceQuery)">
+            <summary>
+            Trae todas las inteligencias Artificiales de la base de datos
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Api.IADirectory.Controllers.ArtificialIntelligenceController.UpdateArtificialIntelligence(Application.Cqrs.ArtificialIntelligence.Commands.PutArtificialIntelligenceCommand)">
+            <summary>
+            Actualiza las inteligencias artificiales
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Api.IADirectory.Controllers.ArtificialIntelligenceController.DeleteArtificialIntelligence(System.Int32)">
+            <summary>
+            Eliminar inteligencia artificial
+            </summary>
+            <param name="Id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Api.IADirectory.Controllers.ArtificialIntelligenceController.GetArtificialIntelligenceById(System.Int32)">
+            <summary>
+            OBtener inteligencia artificial por Id
+            </summary>
+            <param name="Id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Api.IADirectory.Controllers.AuthTokenController.Authentication(Application.Auth.Commands.PostLoginCommand)">
+            <summary>
+            Método que se encarga de generar el token de acceso.
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Api.IADirectory.Controllers.CategoriesAIController.PostCategoriesAI(Application.Cqrs.CategoriesAI.Commands.PostCategoriesAICommand)">
+            <summary>
+            Agrega una nueva categoria en la base de datos
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Api.IADirectory.Controllers.CategoriesAIController.GetCategoriesAI(Application.Cqrs.CategoriesAI.Queries.GetCategoriesAIQuery)">
+            <summary>
+            Trae todos las categorias de la base de datos
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Api.IADirectory.Controllers.CategoriesAIController.UpdateCategoriesAI(Application.Cqrs.CategoriesAI.Commands.PutCategoriesAICommand)">
+            <summary>
+            Actualiza las categorias
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Api.IADirectory.Controllers.CategoriesAIController.DeleteCategoriesAI(System.Int32)">
+            <summary>
+            Eliminar las categorias
+            </summary>
+            <param name="Id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Api.IADirectory.Controllers.CategoriesAIController.GetCategoriesAIById(System.Int32)">
+            <summary>
+            OBtener categoria por Id
+            </summary>
+            <param name="Id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Api.IADirectory.Controllers.UserController.PostUser(Application.Cqrs.User.Commands.PostUserCommand)">
+            <summary>
+            Agrega un nuevo usuario en la base de datos
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Api.IADirectory.Controllers.UserController.GetUsers">
+            <summary>
+            Trae todos los usuarios de la base de datos
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Api.IADirectory.Controllers.UserController.UpdateUser(Application.Cqrs.User.Commands.PutUserCommand)">
+            <summary>
+            Actualiza los Usuarios
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Api.IADirectory.Controllers.UserController.DeleteUser(System.Int32)">
+            <summary>
+            Eliminar Usuarios
+            </summary>
+            <param name="Id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Api.IADirectory.Controllers.UserController.RecoverPassword(Application.Cqrs.User.Commands.RecoverPasswordCommand)">
+            <summary>
+            Recuperar Contraseña por Correo Electronico
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Api.IADirectory.Controllers.UserController.GetUserById(System.Int32)">
+            <summary>
+            Obtener Usuario por Id
+            </summary>
+            <param name="Id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

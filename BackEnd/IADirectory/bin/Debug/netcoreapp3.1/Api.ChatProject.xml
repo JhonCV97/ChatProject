@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Api.ChatProject</name>
+    </assembly>
+    <members>
+        <member name="M:Api.ChatProject.Controllers.AuthTokenController.Authentication(Application.Auth.Commands.PostLoginCommand)">
+            <summary>
+            Método que se encarga de generar el token de acceso.
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Api.ChatProject.Controllers.UserController.PostUser(Application.Cqrs.User.Commands.PostUserCommand)">
+            <summary>
+            Agrega un nuevo usuario en la base de datos
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Api.ChatProject.Controllers.UserController.GetUsers">
+            <summary>
+            Trae todos los usuarios de la base de datos
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Api.ChatProject.Controllers.UserController.UpdateUser(Application.Cqrs.User.Commands.PutUserCommand)">
+            <summary>
+            Actualiza los Usuarios
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Api.ChatProject.Controllers.UserController.DeleteUser(System.Int32)">
+            <summary>
+            Eliminar Usuarios
+            </summary>
+            <param name="Id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Api.ChatProject.Controllers.UserController.RecoverPassword(Application.Cqrs.User.Commands.RecoverPasswordCommand)">
+            <summary>
+            Recuperar Contraseña por Correo Electronico
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Api.ChatProject.Controllers.UserController.GetUserById(System.Int32)">
+            <summary>
+            Obtener Usuario por Id
+            </summary>
+            <param name="Id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
