@@ -1,0 +1,71 @@
+i.material-icons.prefix.active {
+    color: white !important;
+}
+
+label.active {
+    color: white !important;
+}
+
+input:focus {
+    border-bottom: 1px solid white !important;
+    box-shadow: 0 1px 0 0 white !important;
+}
+
+.divChat {
+    background-color: #ededed;
+    height: 74vh;
+}
+
+.divTable {
+    height: 65vh;
+    color: white;
+    overflow-y: scroll;
+}
+
+.divlogin {
+    padding-left: 0.5%;
+    padding-right: 0.5%;
+    margin-bottom: 0%;
+}
+
+.btlg1 {
+    margin-top: 8px;
+    background-color: #022855;
+}
+
+.divMessage {
+    height: 66vh;
+    overflow-y: scroll;
+}
+
+.divInput {
+    background-color: white;
+    height: 8vh;
+}
+
+.divButton {
+    background-color: white;
+    height: 8vh;
+}
+
+#message-input:focus {
+    border-bottom: 1px solid #022855 !important;
+    box-shadow: 0 1px 0 0 #022855 !important;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+.divTable::-webkit-scrollbar-track {
+    background: rgba(2, 40, 85, 0.9);
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 6px;
+}
+
+.HistoryColor{
+    background-color:rgba(2, 40, 85, 0.9);
+}

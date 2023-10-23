@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qMNPODBOW5k+u14URMFpkEGbtiUbSmq2eRg7YQRETlWreNFF+cWR4EetjunPHr/lIYgHJsANLmpEy1o9OvweRw==",
+  "dgSpecHash": "XfoepQmkRbN2JzuEt9w7kFP0pEZXCDVxbTAN1YlQ9QMUCh6VBwD3165HgxezWF33lwO87OkR4VdBEGOUBT8/NA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\BackEnd\\IADirectory\\Api.ChatProject.csproj",
+  "projectFilePath": "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\ChatProject\\BackEnd\\IADirectory\\Api.ChatProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jhon\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Jhon\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

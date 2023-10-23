@@ -1,0 +1,36 @@
+.divlogin{
+    margin-bottom: 8%;
+}
+
+body{
+    background-color: #022855;
+}
+
+.modal {
+    /*background: rgba(0, 0, 0, 0.9);*/
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 40vw;
+    transition: all .2s;
+}
+
+.btlg1{
+    background-color: #022855;
+}
+
+.divImg{
+    height: 100% !important;
+    text-align: center;
+}
+
+
+/*.title-add-category{
+    text-align: center;
+}*/
+
+@media only screen and (max-width: 600px) {
+    .divImg{
+        display: none;
+    }
+}

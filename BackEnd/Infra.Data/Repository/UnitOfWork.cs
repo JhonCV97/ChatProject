@@ -14,6 +14,9 @@ namespace Infra.Data.Repository
         private readonly ChatProjectApplicationDBContext _ctx;
         public IRepository<Role> RoleRepository => new BaseRepository<Role>(_ctx);
         public IRepository<User> UserRepository => new BaseRepository<User>(_ctx);
+        public IRepository<DataInfo> DataInfoRepository => new BaseRepository<DataInfo>(_ctx);
+        public IRepository<History> HistoryRepository => new BaseRepository<History>(_ctx);
+        public IRepository<UserHistory> UserHistoryRepository => new BaseRepository<UserHistory>(_ctx);
 
         public UnitOfWork(ChatProjectApplicationDBContext ctx)
         {

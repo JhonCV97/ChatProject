@@ -9,9 +9,9 @@ namespace Domain.Models
     public class History : Entity
     {
         public DateTime QueryDate { get; set; }
+        public string Question  { get; set; }
         public string Answer { get; set; }
-        public string Response { get; set; }
-        public int ParentHistoryId { get; set; }
+        public int? ParentHistoryId { get; set; }
 
     }
 }

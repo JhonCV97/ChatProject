@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KqQeYzUqOBzXp12nbza9K59ViNw6es+asvv1f8+1zERj23C8QdjhaZg1/L+cmXhKTP+NKXhgzFGgbybKgizsqA==",
+  "dgSpecHash": "o7/HpK2L5NOwVfajMCigdhbdneU4ZYP8WlAeWxFQFqVvNVvnsO//GctA/sMTuhFTjt4r9lIIi2xJKU7gDfMS1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\BackEnd\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\ChatProject\\BackEnd\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jhon\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Jhon\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",

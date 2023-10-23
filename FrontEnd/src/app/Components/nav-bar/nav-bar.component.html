@@ -1,0 +1,24 @@
+<nav>
+    <div class="nav-wrapper navBar">
+        <img class="brand-logo Logo" src="../../assets/Logo_de_la_Universidad_de_Caldas.png">
+        <a href="" data-target="mobile-demo" class="sidenav-trigger" *ngIf="isUserLoggedIn">
+            <i class="material-icons">menu</i>
+        </a>
+        <ul id="nav-mobile" class="right hide-on-med-and-down valign-wrapper" *ngIf="isUserLoggedIn">
+            <li><a href="/chat">Chat</a></li>
+            <li *ngIf="isUserRegister" ><a href="/configuration">Configuración</a></li>
+            <li><a href="/" (click)="DeleteToken()">Cerrar Sesion</a></li>
+        </ul>
+    </div>
+</nav>
+
+<ul class="sidenav" id="mobile-demo">
+    <div class="row">
+        <div class="col s6">
+            <p style="margin-top: 15px; margin-bottom: 0%; font-size: 20px;">Usuario</p>
+        </div>
+    </div>
+    <li><a href="/chat">Chat</a></li>
+    <li *ngIf="isUserRegister"><a href="/configuration">Configuración</a></li>
+    <li><a href="/" (click)="DeleteToken()">Cerrar Sesion</a></li>
+</ul>

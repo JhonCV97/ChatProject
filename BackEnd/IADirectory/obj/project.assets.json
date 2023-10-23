@@ -6791,11 +6791,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\BackEnd\\IADirectory\\Api.ChatProject.csproj",
+      "projectUniqueName": "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\ChatProject\\BackEnd\\IADirectory\\Api.ChatProject.csproj",
       "projectName": "Api.ChatProject",
-      "projectPath": "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\BackEnd\\IADirectory\\Api.ChatProject.csproj",
+      "projectPath": "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\ChatProject\\BackEnd\\IADirectory\\Api.ChatProject.csproj",
       "packagesPath": "C:\\Users\\Jhon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\BackEnd\\IADirectory\\obj\\",
+      "outputPath": "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\ChatProject\\BackEnd\\IADirectory\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6817,11 +6817,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\BackEnd\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\BackEnd\\Domain\\Domain.csproj"
+            "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\ChatProject\\BackEnd\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\ChatProject\\BackEnd\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\BackEnd\\Infra.Data\\Infra.Data.csproj": {
-              "projectPath": "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\BackEnd\\Infra.Data\\Infra.Data.csproj"
+            "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\ChatProject\\BackEnd\\Infra.Data\\Infra.Data.csproj": {
+              "projectPath": "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\ChatProject\\BackEnd\\Infra.Data\\Infra.Data.csproj"
             }
           }
         }

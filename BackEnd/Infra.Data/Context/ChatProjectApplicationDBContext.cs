@@ -14,6 +14,7 @@ namespace Infra.Data.Context
         public DbSet<User> Users { get; set; }
         public DbSet<History> History { get; set; }
         public DbSet<UserHistory> UserHistory { get; set; }
+        public DbSet<DataInfo> DataInfo { get; set; }
         
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

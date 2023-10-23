@@ -11,6 +11,20 @@
             <param name="command"></param>
             <returns></returns>
         </member>
+        <member name="M:Api.ChatProject.Controllers.HistoryController.GetHistoryBySession(Application.Cqrs.History.Queries.GetHistoryQueryBySession)">
+            <summary>
+            Trae todos los usuarios de la base de datos
+            </summary>
+            /// <param name="query"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Api.ChatProject.Controllers.HistoryController.PostHistoryCommand(Application.Cqrs.History.Commands.PostHistoryCommand)">
+            <summary>
+            Agrega un nuevo usuario en la base de datos
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
         <member name="M:Api.ChatProject.Controllers.UserController.PostUser(Application.Cqrs.User.Commands.PostUserCommand)">
             <summary>
             Agrega un nuevo usuario en la base de datos

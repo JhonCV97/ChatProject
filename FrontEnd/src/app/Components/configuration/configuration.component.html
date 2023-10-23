@@ -1,0 +1,38 @@
+<h4 class="center TitleFormH4" style="color: #022855;">Modificar Información</h4>
+<div class="row divDataChange">
+  <div class="col s10 m10 l10 offset-s1 offset-m1 offset-l1 divcardline">
+
+    <form [formGroup]="formForSubmit" (ngSubmit)="UpdateUser()">
+      <div class="input-field col s12 m6 formmg" style="margin-top: 45px; margin-bottom:0px">
+        <input id="icon_prefix" [(ngModel)]="inputName" formControlName="Name" placeholder="" name="name" type="text" class="validate" required minlength="2">
+        <label for="icon_prefix">Nombre</label>
+      </div>
+
+      <div class="input-field col s12 m6 formmg" style="margin-top: 45px; margin-bottom:0px">
+        <input id="icon_prefix3" [(ngModel)]="inputLastName" formControlName="LastName" placeholder="" name="lastname" type="text" class="validate" required minlength="5">
+        <label for="icon_prefix3">Apellido</label>
+      </div>
+
+      <div class="input-field col s12 formmg" style="margin-bottom:0px">
+        <input id="icon_prefix4" [(ngModel)]="inputEmail" formControlName="Email" placeholder="" name="email" type="email" class="validate" required minlength="5">
+        <label for="icon_prefix4">Correo Electronico</label>
+      </div>
+
+      <div class="input-field col s12 m6">
+        <input id="icon_prefix2" formControlName="Password" placeholder="" type="password" name="password" class="validate" required minlength="6">
+        <label for="icon_prefix2">Contraseña</label>
+      </div>
+
+      <div class="input-field col s12 m6">
+        <input id="icon_prefix5" formControlName="RewritePassword" placeholder="" type="password" name="rewritePassword" class="validate" required minlength="6">
+        <label for="icon_prefix5">Repetir Contraseña</label>
+      </div>
+      <div class="col s3"></div>
+      <div class="input-field col s6 divbt" style="margin-bottom: 3%;">
+        <button class="waves-effect waves-light btn btlg1" type="submit" style="background-color: #022855;"
+          name="bt-send" (click)="validatePassword()">Guardar</button>
+      </div>
+
+    </form>
+  </div>
+</div>

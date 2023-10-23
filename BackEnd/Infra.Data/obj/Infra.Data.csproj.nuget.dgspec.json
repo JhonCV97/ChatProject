@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\BackEnd\\Infra.Data\\Infra.Data.csproj": {}
+    "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\ChatProject\\BackEnd\\Infra.Data\\Infra.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\BackEnd\\Application\\Application.csproj": {
+    "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\ChatProject\\BackEnd\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\BackEnd\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\ChatProject\\BackEnd\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\BackEnd\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\ChatProject\\BackEnd\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Jhon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\BackEnd\\Application\\obj\\",
+        "outputPath": "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\ChatProject\\BackEnd\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\BackEnd\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\BackEnd\\Domain\\Domain.csproj"
+              "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\ChatProject\\BackEnd\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\ChatProject\\BackEnd\\Domain\\Domain.csproj"
               }
             }
           }
@@ -98,14 +98,14 @@
         }
       }
     },
-    "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\BackEnd\\Domain\\Domain.csproj": {
+    "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\ChatProject\\BackEnd\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\BackEnd\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\ChatProject\\BackEnd\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\BackEnd\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\ChatProject\\BackEnd\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Jhon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\BackEnd\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\ChatProject\\BackEnd\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -164,14 +164,14 @@
         }
       }
     },
-    "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\BackEnd\\Infra.Data\\Infra.Data.csproj": {
+    "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\ChatProject\\BackEnd\\Infra.Data\\Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\BackEnd\\Infra.Data\\Infra.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\ChatProject\\BackEnd\\Infra.Data\\Infra.Data.csproj",
         "projectName": "Infra.Data",
-        "projectPath": "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\BackEnd\\Infra.Data\\Infra.Data.csproj",
+        "projectPath": "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\ChatProject\\BackEnd\\Infra.Data\\Infra.Data.csproj",
         "packagesPath": "C:\\Users\\Jhon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\BackEnd\\Infra.Data\\obj\\",
+        "outputPath": "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\ChatProject\\BackEnd\\Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -193,8 +193,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\BackEnd\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\BackEnd\\Application\\Application.csproj"
+              "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\ChatProject\\BackEnd\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Jhon\\Documents\\Arquitectura de software\\Proyecto\\ChatProject\\BackEnd\\Application\\Application.csproj"
               }
             }
           }
