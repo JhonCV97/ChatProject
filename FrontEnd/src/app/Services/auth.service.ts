@@ -12,7 +12,7 @@ export class AuthService {
 
   url: string = environment.url_BackEnd;
   headers = new HttpHeaders({ 'Content-Type': 'application/json-patch+json' });
-
+  
   constructor(
     private router: Router,
     private _httpClient: HttpClient
@@ -35,8 +35,12 @@ export class AuthService {
 
           localStorage.setItem("token", responseData.token);
           localStorage.setItem('Login', JSON.stringify(responseData.user));
-          this.router.navigate(['/chat']);
-          
+
+          if (responseData.user.roleId == 1) {
+            this.router.navigate(['/adminview']);
+          }else{
+            this.router.navigate(['/chat']);
+          }
         },
         error => {
           console.error('Error:', error);
@@ -45,8 +49,12 @@ export class AuthService {
   }
 
   getUserById(Id: string){
+
+    let token = localStorage.getItem("token");
+    const headers = new HttpHeaders({ 'Authorization': 'Bearer '+token });
+
     localStorage.removeItem("User");
-    return this._httpClient.get(`${this.url}/api/User/${Id}`)
+    return this._httpClient.get(`${this.url}/api/User/${Id}`, {headers} )
     .subscribe(
       (response: any) => {
         const responseData = JSON.stringify(response.data);
@@ -58,26 +66,25 @@ export class AuthService {
     );
   }
 
-  UpdateUser(email: string, password: string, Id: string, name: string, lastname: string, role: number) {
+  UpdateUser(email: string, password: string, Id: string, name: string, role: number, initialPayDate: string | null, endPayDate: string | null) {
 
-    const headers = this.headers;
+    let token = localStorage.getItem("token");
+    const headers = new HttpHeaders({ 'Authorization': 'Bearer '+token });
 
     const request = {
       "userDto": {
         "id": Id,
-        "name": name,
-        "lastname": lastname,
+        "fullName": name,
         "email": email,
         "login": email,
         "password": password,
         "roleId": role,
+        "initialPayDate": initialPayDate,
+        "endPayDate": endPayDate
       }
     };
 
-    console.log(request);
-    
-    
-    return this._httpClient.put(`${this.url}/api/User`, request)
+    return this._httpClient.put(`${this.url}/api/User`, request, {headers})
       .subscribe(
         (response: any) => {
           if (response.result) {
@@ -96,14 +103,11 @@ export class AuthService {
   }
 
 
-  AddUser(email: string, password: string, name: string, lastname: string) {
-
-    const headers = this.headers;
+  AddUser(email: string, password: string, name: string) {
 
     const request = {
       "userPostDto": {
-        "name": name,
-        "lastname": lastname,
+        "fullName": name,
         "email": email,
         "login": email,
         "password": password,
@@ -126,8 +130,6 @@ export class AuthService {
 
   SendEmail(email: string) {
 
-    const headers = this.headers;
-
     const request = {
       "email": email
     };
@@ -145,6 +147,43 @@ export class AuthService {
           console.error('Error:', error);
         }
       );
+  }
+
+  PayUserPremium(Id: number){
+    
+    let token = localStorage.getItem("token");
+    const headers = new HttpHeaders({ 'Authorization': 'Bearer '+token });
+
+    const request = {
+      "id": Id
+    };
+
+    return this._httpClient.post(`${this.url}/api/User/PayUserPremium`, request, {headers})
+      .subscribe(
+        (response: any) => {
+
+        },
+        error => {
+          console.error('Error:', error);
+        }
+      );
+  }
+
+  getUsers(){
+
+    let token = localStorage.getItem("token");
+    const headers = new HttpHeaders({ 'Authorization': 'Bearer '+token });
+
+    return this._httpClient.get(`${this.url}/api/User`, {headers})
+    .subscribe(
+      (response: any) => {
+        const responseData = JSON.stringify(response.data);
+        localStorage.setItem("UsersList", responseData);
+      },
+      error => {
+        console.error('Error:', error);
+      }
+    );
   }
 
 }

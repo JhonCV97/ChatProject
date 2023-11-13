@@ -1,11 +1,8 @@
-﻿using Application.Interfaces.SendEmail;
-using Domain.Interfaces;
+﻿using Application.Interfaces.Scraping;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using System;
-using System.Collections.Generic;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -30,17 +27,18 @@ namespace Application.Services.WeeklyTaskService
             {
                 using (var scope = _serviceProvider.CreateScope())
                 {
-                    // Obtener el servicio de usuarios
-                    var userService = scope.ServiceProvider.GetRequiredService<ISendEmailService>();
-                    
-                    // Ejecutar el método de usuarios
-                    //await userService.GenerateEmail();
+                    // Obtener el servicio de scraping
+                    var ScrapingService = scope.ServiceProvider.GetRequiredService<IScrapingService>();
+
+                    // Ejecutar el método de scraping
+                    //ScrapingService.WebScraping();
                 }
 
                 _logger.LogInformation("WeeklyTaskService is running. " + DateTime.Now);
 
                 // Esperar 1 minuto antes de ejecutar nuevamente
                 //await Task.Delay(TimeSpan.FromMinutes(1), stoppingToken);
+                // Esperar 8 dias antes de ejecutar nuevamente
                 await Task.Delay(TimeSpan.FromDays(8), stoppingToken);
             }
 

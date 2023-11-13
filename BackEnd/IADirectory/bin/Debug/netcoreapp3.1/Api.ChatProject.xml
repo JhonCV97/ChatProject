@@ -13,16 +13,23 @@
         </member>
         <member name="M:Api.ChatProject.Controllers.HistoryController.GetHistoryBySession(Application.Cqrs.History.Queries.GetHistoryQueryBySession)">
             <summary>
-            Trae todos los usuarios de la base de datos
+            Traer el historial de base de datos
             </summary>
             /// <param name="query"></param>
             <returns></returns>
         </member>
         <member name="M:Api.ChatProject.Controllers.HistoryController.PostHistoryCommand(Application.Cqrs.History.Commands.PostHistoryCommand)">
             <summary>
-            Agrega un nuevo usuario en la base de datos
+            Agrega un nuevo historial en la base de datos
             </summary>
             <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Api.ChatProject.Controllers.HistoryController.DeleteHistory(System.Int32)">
+            <summary>
+            Eliminar historial
+            </summary>
+            <param name="Id"></param>
             <returns></returns>
         </member>
         <member name="M:Api.ChatProject.Controllers.UserController.PostUser(Application.Cqrs.User.Commands.PostUserCommand)">
@@ -64,6 +71,13 @@
             Obtener Usuario por Id
             </summary>
             <param name="Id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Api.ChatProject.Controllers.UserController.PayUserPremium(Application.Cqrs.User.Commands.PayUserPremiumCommand)">
+            <summary>
+            Cambio a usuario Premium
+            </summary>
+            <param name="command"></param>
             <returns></returns>
         </member>
     </members>

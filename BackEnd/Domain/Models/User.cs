@@ -18,7 +18,7 @@ namespace Domain.Models
         public int RoleId { get; set; }
         [ForeignKey("RoleId")]
         public Role Role { get; set; }
-        public DateTime InitialPayDate { get; set; }
-        public DateTime EndPayDate { get; set; }
+        public DateTime? InitialPayDate { get; set; }
+        public DateTime? EndPayDate { get; set; }
     }
 }

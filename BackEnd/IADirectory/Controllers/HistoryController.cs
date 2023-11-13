@@ -14,7 +14,7 @@ namespace Api.ChatProject.Controllers
     public class HistoryController : ApiControllerBase
     {
         /// <summary>
-        /// Trae todos los usuarios de la base de datos
+        /// Traer el historial de base de datos
         /// </summary>
         /// /// <param name="query"></param>
         /// <returns></returns>
@@ -25,7 +25,7 @@ namespace Api.ChatProject.Controllers
         }
 
         /// <summary>
-        /// Agrega un nuevo usuario en la base de datos
+        /// Agrega un nuevo historial en la base de datos
         /// </summary>
         /// <param name="command"></param>
         /// <returns></returns>
@@ -33,6 +33,17 @@ namespace Api.ChatProject.Controllers
         public async Task<IActionResult> PostHistoryCommand([FromBody] PostHistoryCommand command)
         {
             return Ok(await Mediator.Send(command));
+        }
+
+        /// <summary>
+        /// Eliminar historial
+        /// </summary>
+        /// <param name="Id"></param>
+        /// <returns></returns>
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteHistory(int Id)
+        {
+            return Ok(await Mediator.Send(new DeleteUserCommand() { Id = Id }));
         }
     }
 }

@@ -6,6 +6,7 @@ namespace Application.DTOs.History
 {
     public class HistoryDto
     {
+        public int Id { get; set; }
         public DateTime QueryDate { get; set; }
         public string Question { get; set; }
         public string Answer { get; set; }

@@ -30,14 +30,14 @@ namespace Application.Services.History
             _autoMapper = autoMapper;
         }
 
-        public async Task<ApiResponse<UserHistoryPostDto>> GetChatsBySession(GetHistoryQueryBySession request)
+        public async Task<ApiResponse<List<UserHistoryDto>>> GetChatsBySession(GetHistoryQueryBySession request)
         {
-            var response = new ApiResponse<UserHistoryPostDto>();
+            var response = new ApiResponse<List<UserHistoryDto>>();
 
             try
             {
-                response.Data = _autoMapper.Map<UserHistoryPostDto>(await _unitOfWork.UserHistoryRepository.Get()
-                                                                                                           .Where(x => x.History.ParentHistoryId == request.ChatId)
+                response.Data = _autoMapper.Map<List<UserHistoryDto>>(await _unitOfWork.UserHistoryRepository.Get()
+                                                                                                           .Where(x => x.History.ParentHistoryId == request.ChatId && x.UserId == request.UserId)
                                                                                                             .Include(u => u.User)
                                                                                                             .Include(h => h.History)
                                                                                                             .ToListAsync());
@@ -61,7 +61,15 @@ namespace Application.Services.History
             try
             {
                 response.Data = _autoMapper.Map<HistoryDto>(await _unitOfWork.HistoryRepository.Add(_autoMapper.Map<Domain.Models.History>(request.historyDtoPost)));
-                await _unitOfWork.UserHistoryRepository.Add(_autoMapper.Map<Domain.Models.UserHistory>(request.userHistoryPostDto));
+                
+                var userHistoryPostDto = new UserHistoryPostDto
+                {
+                    HistoryId = response.Data.Id,
+                    UserId = request.UserId,
+                };
+
+                await _unitOfWork.UserHistoryRepository.Add(_autoMapper.Map<Domain.Models.UserHistory>(userHistoryPostDto));
+
                 response.Result = true;
                 response.Message = "OK";
             }
@@ -72,6 +80,57 @@ namespace Application.Services.History
             }
 
             return response;
+        }
+
+        public async Task<ApiResponse<bool>> DeleteHistory(DeleteHistoryCommand request)
+        {
+            var response = new ApiResponse<bool>();
+            try
+            {
+                var History = await _unitOfWork.HistoryRepository.GetById(request.Id);
+                var UserHistory = await _unitOfWork.UserHistoryRepository.GetById(History.Id);
+
+                var AllMessageHistory = await _unitOfWork.HistoryRepository.Get()
+                                                                            .Where(p => p.ParentHistoryId == History.Id)
+                                                                            .ToListAsync();
+
+                if (AllMessageHistory.Count > 0)
+                {
+                    await DeleteAllMessage(AllMessageHistory);
+                }
+
+                await _unitOfWork.UserHistoryRepository.Delete(UserHistory);
+
+                response.Data = await _unitOfWork.HistoryRepository.Delete(History);
+                response.Result = true;
+                response.Message = "Ok";
+            }
+            catch (Exception ex)
+            {
+                response.Result = false;
+                response.Message = $"Error al eliminar el registro, consulte con el administrador. {ex.Message} ";
+                throw;
+            }
+            return response;
+        }
+
+
+        public async Task<bool> DeleteAllMessage(List<Domain.Models.History> histories)
+        {
+            try
+            {
+                foreach (var history in histories)
+                {
+                    await _unitOfWork.HistoryRepository.Delete(history);
+                }
+
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+
+            return true;
         }
 
     }

@@ -14,7 +14,7 @@ namespace Application.DTOs.User
         public string Password { get; set; }
         public int RoleId { get; set; }
         public RoleDto Role { get; set; }
-        public DateTime InitialPayDate { get; set; }
-        public DateTime EndPayDate { get; set; }
+        public DateTime? InitialPayDate { get; set; }
+        public DateTime? EndPayDate { get; set; }
     }
 }

@@ -27,7 +27,7 @@ export class RecoverPasswordComponent {
   UpdateUser(){
     if(this.formForSubmit.valid) {
       if (this.formForSubmit.controls["Password"].value == this.formForSubmit.controls["RewritePassword"].value) {
-        this.authService.UpdateUser(this.formForSubmit.controls["Email"].value, this.formForSubmit.controls["Password"].value, '0', '', '', 0);
+        this.authService.UpdateUser(this.formForSubmit.controls["Email"].value, this.formForSubmit.controls["Password"].value, '0', '', 0, '', '');
       }
     }
   }

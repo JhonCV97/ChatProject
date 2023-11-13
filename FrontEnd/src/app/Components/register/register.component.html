@@ -3,14 +3,9 @@
   <div class="col s10 m10 l10 offset-s1 offset-m1 offset-l1 divcardline">
 
     <form [formGroup]="formForSubmit" (ngSubmit)="AddUser()">
-      <div class="input-field col s12 m6 formmg" style="margin-top: 45px; margin-bottom:0px">
+      <div class="input-field col s12 m12 formmg" style="margin-top: 45px; margin-bottom:0px">
         <input id="icon_prefix" formControlName="Name" name="name" type="text" class="validate" required minlength="2">
-        <label for="icon_prefix">Nombre</label>
-      </div>
-
-      <div class="input-field col s12 m6 formmg" style="margin-top: 45px; margin-bottom:0px">
-        <input id="icon_prefix3" formControlName="LastName" name="lastname" type="text" class="validate" required minlength="5">
-        <label for="icon_prefix3">Apellido</label>
+        <label for="icon_prefix">Nombre Completo</label>
       </div>
 
       <div class="input-field col s12 formmg" style="margin-bottom:0px">

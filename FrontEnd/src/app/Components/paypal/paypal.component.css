@@ -1,0 +1,26 @@
+.divPaypal{
+    margin-bottom: 9.5%;
+}
+
+.TitleFormH4{
+    margin-bottom: 10%;
+}
+
+
+@media only screen and (max-width: 1250px) {
+    .TitleFormH4{
+        margin-bottom: 15%;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    .TitleFormH4{
+        margin-bottom: 18%;
+    }
+}
+
+@media only screen and (max-width: 700px) {
+    .TitleFormH4{
+        margin-bottom: 20%;
+    }
+}

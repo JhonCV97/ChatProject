@@ -7,9 +7,12 @@ using Application.Interfaces.User;
 using AutoMapper;
 using Domain.Interfaces;
 using Infra.Data.Repository;
+using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -20,11 +23,13 @@ namespace Application.Services.User
         private readonly IUnitOfWork _unitOfWork;
         private readonly IMapper _autoMapper;
         private readonly IPasswordHasher _passwordHasher;
-        public UserService(IUnitOfWork unitOfWork, IMapper autoMapper, IPasswordHasher passwordHasher)
+        private readonly string _connectionString;
+        public UserService(IUnitOfWork unitOfWork, IMapper autoMapper, IPasswordHasher passwordHasher, IConfiguration configuration)
         {
             _unitOfWork = unitOfWork;
             _autoMapper = autoMapper;
             _passwordHasher = passwordHasher;
+            _connectionString = configuration.GetConnectionString("ChatProjectConnection");
         }
 
         public async Task<ApiResponse<List<UserDto>>> GetUsers()
@@ -33,7 +38,9 @@ namespace Application.Services.User
 
             try
             {
-                response.Data = _autoMapper.Map<List<UserDto>>(await _unitOfWork.UserRepository.Get().ToListAsync());
+                response.Data = _autoMapper.Map<List<UserDto>>(await _unitOfWork.UserRepository.Get()
+                                                                                               .Include(x => x.Role)
+                                                                                               .ToListAsync());
                 response.Result = true;
                 response.Message = "OK";
             }
@@ -133,9 +140,11 @@ namespace Application.Services.User
                     Id = request.UserDto.Id,
                     Email = request.UserDto.Email,
                     FullName = request.UserDto.FullName, 
-                    Password= request.UserDto.Password,
-                    Login= request.UserDto.Login,
-                    RoleId= request.UserDto.RoleId
+                    Password = request.UserDto.Password,
+                    Login = request.UserDto.Login,
+                    RoleId = request.UserDto.RoleId,
+                    EndPayDate = request.UserDto.EndPayDate,
+                    InitialPayDate = request.UserDto.InitialPayDate,
                 };
 
                 response.Data = _autoMapper.Map<UserDto>(await _unitOfWork.UserRepository.Put(_autoMapper.Map<Domain.Models.User>(userDto)));
@@ -156,9 +165,9 @@ namespace Application.Services.User
             var response = new ApiResponse<bool>();
             try
             {
-                var CategoriesAI = await _unitOfWork.UserRepository.GetById(request.Id);
+                var User = await _unitOfWork.UserRepository.GetById(request.Id);
 
-                response.Data = await _unitOfWork.UserRepository.Delete(CategoriesAI);
+                response.Data = await _unitOfWork.UserRepository.Delete(User);
                 response.Result = true;
                 response.Message = "Ok";
             }
@@ -170,6 +179,45 @@ namespace Application.Services.User
             }
             return response;
         }
-        
+
+        public async Task<ApiResponse<bool>> PayUserPremium(PayUserPremiumCommand request)
+        {
+            var response = new ApiResponse<bool>();
+            string connectionString = _connectionString;
+
+            string storedProcedureName = "PayChat";
+
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                await connection.OpenAsync();
+
+                using (SqlCommand command = new SqlCommand(storedProcedureName, connection))
+                {
+
+                    var dateInitial = DateTime.Now;
+                    var dateEnd = dateInitial.AddMonths(1);
+
+                    command.CommandType = CommandType.StoredProcedure;
+
+                    command.Parameters.AddWithValue("@IdUser", request.Id);
+                    command.Parameters.AddWithValue("@InitDate", dateInitial);
+                    command.Parameters.AddWithValue("@EndDate", dateEnd);
+
+                    try
+                    {
+                        await command.ExecuteReaderAsync();
+                        response.Data = true;
+                        response.Result = true;
+                    }
+                    catch (Exception ex)
+                    {
+                        
+                    }
+                }
+            }
+
+            return response;
+        }
+
     }
 }

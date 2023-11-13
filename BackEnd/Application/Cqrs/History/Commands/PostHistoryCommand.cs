@@ -16,7 +16,7 @@ namespace Application.Cqrs.History.Commands
 {
     public class PostHistoryCommand : IRequest<ApiResponse<HistoryDto>>
     {
-        public UserHistoryPostDto userHistoryPostDto { get; set; }
+        public int UserId { get; set; }
         public HistoryDtoPost historyDtoPost { get; set; }
     }
     public class PostHistoryCommandHandler : IRequestHandler<PostHistoryCommand, ApiResponse<HistoryDto>>

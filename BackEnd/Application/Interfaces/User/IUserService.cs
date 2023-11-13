@@ -14,5 +14,6 @@ namespace Application.Interfaces.User
         Task<ApiResponse<UserDto>> UpdateUser(PutUserCommand request);
         Task<ApiResponse<bool>> DeleteUser(DeleteUserCommand request);
         Task<ApiResponse<UserDto>> GetUsersById(GetUsersQueryById request);
+        Task<ApiResponse<bool>> PayUserPremium(PayUserPremiumCommand request);
     }
 }

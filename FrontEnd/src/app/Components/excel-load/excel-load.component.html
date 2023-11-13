@@ -1,0 +1,16 @@
+<form class="form-container" enctype='multipart/form-data'>
+	<div class="upload-files-container">
+		<div class="drag-file-area" #draggableFileArea>
+			<span class="material-icons-outlined upload-icon"> file_upload </span>
+			<h3 class="dynamic-message"> Arrastra y suelta cualquier archivo aquí </h3>
+			<label class="label"> o <span class="browse-files"> <input type="file" class="default-file-input"/> <span class="browse-files-text">Buscar Archivo</span> <br> <span> Desde Dispositivo</span> </span> </label>
+		</div>
+		<span class="cannot-upload-message"> <span class="material-icons-outlined">Error</span> Por favor seleccione un archivo <span class="material-icons-outlined cancel-alert-button">Cancelar</span> </span>
+		<div class="file-block">
+			<div class="file-info"> <span class="material-icons-outlined file-icon">Descripción</span> <span class="file-name"> </span> | <span class="file-size">  </span> </div>
+			<span class="material-icons remove-file-icon">Eliminar</span>
+			<div class="progress-bar" #progressBar> </div>
+		</div>
+		<button type="button" class="upload-button"> Cargar </button>
+	</div>
+</form>

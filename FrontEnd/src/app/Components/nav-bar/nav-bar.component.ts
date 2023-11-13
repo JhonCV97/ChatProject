@@ -13,6 +13,7 @@ export class NavBarComponent implements OnInit {
 
   isUserLoggedIn: boolean | undefined;
   isUserRegister: boolean | undefined;
+  isUserAdmin: boolean | undefined;
 
   constructor(private dataSharingService: DataSharingService) {
     this.dataSharingService.isUserLoggedIn.subscribe(value => {
@@ -21,9 +22,13 @@ export class NavBarComponent implements OnInit {
     this.dataSharingService.isUserRegister.subscribe(value => {
       this.isUserRegister = value;
     });
+    this.dataSharingService.isUserAdmin.subscribe(value => {
+      this.isUserAdmin = value;
+    });
   }
 
   token: any;
+  UserLogin: any;
 
   ngOnInit(): void {
     document.addEventListener('DOMContentLoaded', function () {
@@ -32,6 +37,7 @@ export class NavBarComponent implements OnInit {
     });
 
     this.token! = localStorage.getItem("token");
+    
   }
 
   DeleteToken() {
@@ -43,6 +49,13 @@ export class NavBarComponent implements OnInit {
     this.dataSharingService.isUserLoggedIn.next(true);
     if(localStorage.getItem("Login")){
       this.dataSharingService.isUserRegister.next(true);
+    }
+
+    this.UserLogin = localStorage.getItem("Login");
+    this.UserLogin = JSON.parse(this.UserLogin);
+    
+    if(this.UserLogin.roleId == 1){
+      this.dataSharingService.isUserAdmin.next(true);
     }
   }
 }

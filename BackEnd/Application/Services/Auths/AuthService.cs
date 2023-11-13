@@ -57,6 +57,7 @@ namespace Application.Services.Auths
             var userDto = await _authRepository
                     .GetUsers()
                     .Where(x => x.Login.Trim() == auth.Login.Trim())
+                    .Include(x => x.Role)
                     .ProjectTo<UserDto>(_autoMapper.ConfigurationProvider)
                     .FirstOrDefaultAsync();
 

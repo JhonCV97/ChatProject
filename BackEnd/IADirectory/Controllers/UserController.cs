@@ -1,5 +1,6 @@
 ﻿using Application.Cqrs.User.Commands;
 using Application.Cqrs.User.Queries;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 
@@ -8,7 +9,6 @@ namespace Api.ChatProject.Controllers
     [Route("api/[controller]")]
     [ApiController]
     [ApiExplorerSettings(GroupName = "Users")]
-    //[Authorize]
     public class UserController : ApiControllerBase
     {
         /// <summary>
@@ -26,6 +26,7 @@ namespace Api.ChatProject.Controllers
         /// Trae todos los usuarios de la base de datos
         /// </summary>
         /// <returns></returns>
+        [Authorize]
         [HttpGet]
         public async Task<IActionResult> GetUsers()
         {
@@ -37,7 +38,7 @@ namespace Api.ChatProject.Controllers
         /// </summary>
         /// <param name="command"></param>
         /// <returns></returns>
-
+        [Authorize]
         [HttpPut]
         public async Task<IActionResult> UpdateUser([FromBody] PutUserCommand command)
         {
@@ -49,7 +50,7 @@ namespace Api.ChatProject.Controllers
         /// </summary>
         /// <param name="Id"></param>
         /// <returns></returns>
-
+        [Authorize]
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteUser(int Id)
         {
@@ -67,18 +68,29 @@ namespace Api.ChatProject.Controllers
             return Ok(await Mediator.Send(command));
         }
 
-
         /// <summary>
         /// Obtener Usuario por Id
         /// </summary>
         /// <param name="Id"></param>
         /// <returns></returns>
-
+        [Authorize]
         [HttpGet("{Id}")]
         public async Task<IActionResult> GetUserById(int Id)
         {
             return Ok(await Mediator.Send(new GetUsersQueryById() { Id = Id }));
         }
-        
+
+        /// <summary>
+        /// Cambio a usuario Premium
+        /// </summary>
+        /// <param name="command"></param>
+        /// <returns></returns>
+        [Authorize]
+        [HttpPost("PayUserPremium")]
+        public async Task<IActionResult> PayUserPremium([FromBody] PayUserPremiumCommand command)
+        {
+            return Ok(await Mediator.Send(command));
+        }
+
     }
 }

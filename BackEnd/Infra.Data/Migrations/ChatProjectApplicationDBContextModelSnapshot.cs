@@ -19,6 +19,29 @@ namespace Infra.Data.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
+            modelBuilder.Entity("Domain.Models.DataInfo", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("QueryType")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Response")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("RoleId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("RoleId");
+
+                    b.ToTable("DataInfo");
+                });
+
             modelBuilder.Entity("Domain.Models.History", b =>
                 {
                     b.Property<int>("Id")
@@ -29,13 +52,13 @@ namespace Infra.Data.Migrations
                     b.Property<string>("Answer")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("ParentHistoryId")
+                    b.Property<int?>("ParentHistoryId")
                         .HasColumnType("int");
 
                     b.Property<DateTime>("QueryDate")
                         .HasColumnType("datetime2");
 
-                    b.Property<string>("Response")
+                    b.Property<string>("Question")
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
@@ -77,14 +100,14 @@ namespace Infra.Data.Migrations
                         .HasColumnType("nvarchar(100)")
                         .HasMaxLength(100);
 
-                    b.Property<DateTime>("EndPayDate")
+                    b.Property<DateTime?>("EndPayDate")
                         .HasColumnType("datetime2");
 
                     b.Property<string>("FullName")
                         .HasColumnType("nvarchar(100)")
                         .HasMaxLength(100);
 
-                    b.Property<DateTime>("InitialPayDate")
+                    b.Property<DateTime?>("InitialPayDate")
                         .HasColumnType("datetime2");
 
                     b.Property<string>("Login")
@@ -124,6 +147,15 @@ namespace Infra.Data.Migrations
                     b.HasIndex("UserId");
 
                     b.ToTable("UserHistory");
+                });
+
+            modelBuilder.Entity("Domain.Models.DataInfo", b =>
+                {
+                    b.HasOne("Domain.Models.Role", "Role")
+                        .WithMany()
+                        .HasForeignKey("RoleId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
                 });
 
             modelBuilder.Entity("Domain.Models.User", b =>

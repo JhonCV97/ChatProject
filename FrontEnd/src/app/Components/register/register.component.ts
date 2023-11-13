@@ -21,7 +21,6 @@ export class RegisterComponent implements OnInit{
 
     this.formForSubmit = this.formBuilder.group({
       Name: '',
-      LastName: '',
       Email: '',
       Password: '',
       RewritePassword: '' 
@@ -44,7 +43,7 @@ export class RegisterComponent implements OnInit{
   AddUser(){
     if(this.formForSubmit.valid) {
       if (this.formForSubmit.controls["Password"].value == this.formForSubmit.controls["RewritePassword"].value) {
-        this.authService.AddUser(this.formForSubmit.controls["Email"].value, this.formForSubmit.controls["Password"].value, this.formForSubmit.controls["Name"].value, this.formForSubmit.controls["LastName"].value);
+        this.authService.AddUser(this.formForSubmit.controls["Email"].value, this.formForSubmit.controls["Password"].value, this.formForSubmit.controls["Name"].value);
       }
     }
   }

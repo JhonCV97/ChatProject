@@ -15,6 +15,10 @@ import { HttpClientModule } from '@angular/common/http';
 import { AuthService } from './Services/auth.service';
 import { CategoriesAIService } from './Services/categories-ai.service';
 import { ChatComponent, DataSharingService } from './Components/chat/chat.component';
+import { PaypalComponent } from './Components/paypal/paypal.component';
+import { ExcelLoadComponent } from './Components/excel-load/excel-load.component';
+import { ListUserViewComponent } from './Components/list-user-view/list-user-view.component';
+import { AdminViewComponent } from './Components/admin-view/admin-view.component';
 
 @NgModule({
   declarations: [
@@ -27,6 +31,10 @@ import { ChatComponent, DataSharingService } from './Components/chat/chat.compon
     RecoverPasswordComponent,
     ConfigurationComponent,
     ChatComponent,
+    PaypalComponent,
+    ExcelLoadComponent,
+    ListUserViewComponent,
+    AdminViewComponent,
   ],
   imports: [
     BrowserModule,
@@ -39,7 +47,8 @@ import { ChatComponent, DataSharingService } from './Components/chat/chat.compon
     AuthService, 
     CategoriesAIService,
     NavBarComponent, 
-    DataSharingService
+    DataSharingService,
+    ChatComponent
   ],
   bootstrap: [AppComponent]
 })

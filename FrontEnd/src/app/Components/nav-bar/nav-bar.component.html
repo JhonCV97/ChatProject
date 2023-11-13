@@ -5,8 +5,11 @@
             <i class="material-icons">menu</i>
         </a>
         <ul id="nav-mobile" class="right hide-on-med-and-down valign-wrapper" *ngIf="isUserLoggedIn">
-            <li><a href="/chat">Chat</a></li>
-            <li *ngIf="isUserRegister" ><a href="/configuration">Configuración</a></li>
+            <li *ngIf="!isUserAdmin"><a href="/chat">Chat</a></li>
+            <li *ngIf="isUserAdmin"><a href="/adminview">Inicio</a></li>
+            <li><a href="/configuration">Editar Información</a></li>
+            <li *ngIf="isUserAdmin"><a href="/loadexcel">Cargar Excel</a></li>
+            <li *ngIf="isUserAdmin"><a href="/listuser">Listar Usuarios</a></li>
             <li><a href="/" (click)="DeleteToken()">Cerrar Sesion</a></li>
         </ul>
     </div>
@@ -18,7 +21,10 @@
             <p style="margin-top: 15px; margin-bottom: 0%; font-size: 20px;">Usuario</p>
         </div>
     </div>
-    <li><a href="/chat">Chat</a></li>
-    <li *ngIf="isUserRegister"><a href="/configuration">Configuración</a></li>
+    <li *ngIf="!isUserAdmin"><a href="/chat">Chat</a></li>
+    <li *ngIf="isUserAdmin"><a href="/adminview">Inicio</a></li>
+    <li><a href="/configuration">Editar Información</a></li>
+    <li *ngIf="isUserAdmin" ><a href="/loadexcel">Cargar Excel</a></li>
+    <li *ngIf="isUserAdmin" ><a href="/listuser">Listar Usuarios</a></li>
     <li><a href="/" (click)="DeleteToken()">Cerrar Sesion</a></li>
 </ul>

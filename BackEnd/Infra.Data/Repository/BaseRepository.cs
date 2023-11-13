@@ -59,7 +59,6 @@ namespace Infra.Data.Repository
         }
         public async Task<bool> Delete(T entity)
         {
-
             _entities.Remove(entity);
             await _ctx.SaveChangesAsync();
             return true;

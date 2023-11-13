@@ -17,7 +17,7 @@ input:focus {
 }
 
 .divTable {
-    height: 65vh;
+    height: 57vh;
     color: white;
     overflow-y: scroll;
 }
@@ -36,6 +36,13 @@ input:focus {
 .divMessage {
     height: 66vh;
     overflow-y: scroll;
+}
+
+.btn.btnPremium {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    margin-top: 0px;
 }
 
 .divInput {
@@ -68,4 +75,29 @@ input:focus {
 
 .HistoryColor{
     background-color:rgba(2, 40, 85, 0.9);
+}
+
+.TrHistory{
+    cursor: pointer;
+}
+
+.DivChats{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.ChatQuestion{
+    background-color:rgba(2, 40, 85, 0.7);
+    width: 50%;
+    margin-left: auto;
+    padding: 1%;
+    border-radius: 10px 10px 0 10px;
+}
+
+.ChatAnswer{
+    background-color: white;
+    width: 50%;
+    padding: 1%;
+    border-radius: 10px 10px 10px 0;
 }

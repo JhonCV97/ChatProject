@@ -22,7 +22,6 @@ export class ConfigurationComponent implements OnInit{
   UserLogin: any;
   UserUpdate: any;
   inputName: string | undefined;
-  inputLastName: string | undefined;
   inputEmail: string | undefined;
   formForSubmit: any;
   roleId: number | undefined;
@@ -39,10 +38,9 @@ export class ConfigurationComponent implements OnInit{
 
     this.formForSubmit = this.formBuilder.group({
       Name: '',
-      LastName: '',
       Email: '',
       Password: '',
-      RewritePassword: '' 
+      RewritePassword: ''
     });
 
     if (localStorage.getItem("Login")) {
@@ -59,8 +57,7 @@ export class ConfigurationComponent implements OnInit{
     this.UserUpdate = JSON.parse(this.UserUpdate);
     this.roleId! = this.UserUpdate.roleId;
 
-    this.inputName = this.UserUpdate.name;
-    this.inputLastName = this.UserUpdate.lastname;
+    this.inputName = this.UserUpdate.fullName;
     this.inputEmail = this.UserUpdate.email;
 
   }
@@ -91,7 +88,7 @@ export class ConfigurationComponent implements OnInit{
   UpdateUser(){
     if(this.formForSubmit.valid) {
       if (this.formForSubmit.controls["Password"].value == this.formForSubmit.controls["RewritePassword"].value) {
-        this.authService.UpdateUser(this.formForSubmit.controls["Email"].value, this.formForSubmit.controls["Password"].value, this.UserLogin.id, this.formForSubmit.controls["Name"].value, this.formForSubmit.controls["LastName"].value, this.roleId!);
+        this.authService.UpdateUser(this.formForSubmit.controls["Email"].value, this.formForSubmit.controls["Password"].value, this.UserLogin.id, this.formForSubmit.controls["Name"].value, this.roleId!, '', '');
       }
     }
   }
