@@ -116,7 +116,6 @@ C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\ChatProject\BackEnd\IA
 C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\ChatProject\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\ChatProject\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
 C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\ChatProject\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\ChatProject\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
 C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\ChatProject\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\ChatProject\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
 C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\ChatProject\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
@@ -208,3 +207,9 @@ C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\ChatProject\BackEnd\IA
 C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\ChatProject\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
 C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\ChatProject\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
 C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\ChatProject\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\ChatProject\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\ChatProject\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\OpenAI.GPT3.dll
+C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\ChatProject\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\ChatProject\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\ChatProject\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Jhon\Documents\Arquitectura de software\Proyecto\ChatProject\BackEnd\IADirectory\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll

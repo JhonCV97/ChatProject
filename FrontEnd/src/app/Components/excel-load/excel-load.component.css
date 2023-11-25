@@ -94,14 +94,14 @@ body {
   	transition: all 1s;
 	width: 390px;
 	position: relative;
-	display: none;
+	/* display: none; */
 	flex-direction: row;
 	justify-content: space-between;
 	align-items: center;
 	margin: 10px 0 15px;
 	padding: 10px 20px;
 	border-radius: 25px;
-	cursor: pointer;
+	justify-items: center;
 }
 
 .file-info {
@@ -145,4 +145,9 @@ body {
 	margin: 10px;
 	padding: 7.5px 50px;
 	cursor: pointer;
+}
+
+.material-icons{
+	display: flex;
+	align-items: center;
 }

@@ -174,16 +174,15 @@ export class AuthService {
     let token = localStorage.getItem("token");
     const headers = new HttpHeaders({ 'Authorization': 'Bearer '+token });
 
-    return this._httpClient.get(`${this.url}/api/User`, {headers})
-    .subscribe(
-      (response: any) => {
-        const responseData = JSON.stringify(response.data);
-        localStorage.setItem("UsersList", responseData);
-      },
-      error => {
-        console.error('Error:', error);
-      }
-    );
+    return this._httpClient.get(`${this.url}/api/User`, {headers});
+  }
+
+  deleteUser(id: number){
+
+    let token = localStorage.getItem("token");
+    const headers = new HttpHeaders({ 'Authorization': 'Bearer '+token });
+    
+    return this._httpClient.delete(`${this.url}/api/User/${id}`, {headers});
   }
 
 }

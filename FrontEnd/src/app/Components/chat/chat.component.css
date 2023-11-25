@@ -36,6 +36,9 @@ input:focus {
 .divMessage {
     height: 66vh;
     overflow-y: scroll;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .btn.btnPremium {
@@ -101,3 +104,26 @@ input:focus {
     padding: 1%;
     border-radius: 10px 10px 10px 0;
 }
+
+td i {
+    float: right;
+}
+
+.history-p{
+    width: 90%;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+
+.HistoryTd{
+    display: flex;
+}
+
+.imgLoading{
+    margin-top: auto;
+}
+

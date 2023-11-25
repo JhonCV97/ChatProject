@@ -11,6 +11,13 @@
             <param name="command"></param>
             <returns></returns>
         </member>
+        <member name="M:Api.ChatProject.Controllers.ConnectionChatGPTController.GetMessageChatGPT(Application.Cqrs.ConnectionChatGPT.Queries.GetMessageChatGPTQuery)">
+            <summary>
+            Conexion a chatGPT
+            </summary>
+            /// <param name="query"></param>
+            <returns></returns>
+        </member>
         <member name="M:Api.ChatProject.Controllers.HistoryController.GetHistoryBySession(Application.Cqrs.History.Queries.GetHistoryQueryBySession)">
             <summary>
             Traer el historial de base de datos

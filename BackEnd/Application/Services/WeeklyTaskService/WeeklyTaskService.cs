@@ -1,4 +1,6 @@
-﻿using Application.Interfaces.Scraping;
+﻿using Application.Interfaces.DataInfo;
+using Application.Interfaces.Scraping;
+using Application.Services.DataInfo;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
@@ -31,7 +33,13 @@ namespace Application.Services.WeeklyTaskService
                     var ScrapingService = scope.ServiceProvider.GetRequiredService<IScrapingService>();
 
                     // Ejecutar el método de scraping
-                    //ScrapingService.WebScraping();
+                    var ListDataInfo = await ScrapingService.WebScraping();
+
+
+                    var DataInfoService = scope.ServiceProvider.GetRequiredService<IDataInfoService>();
+                    DataInfoService.DeleteDataInfo(2);
+                    await DataInfoService.AddDataInfo(ListDataInfo);
+                    
                 }
 
                 _logger.LogInformation("WeeklyTaskService is running. " + DateTime.Now);

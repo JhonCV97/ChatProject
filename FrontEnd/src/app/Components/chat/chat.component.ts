@@ -24,11 +24,14 @@ export class ChatComponent implements OnInit, AfterViewChecked {
   DiplayChat: boolean = false;
   UserLogin: any;
   Histories: any;
+  HistoryItems: any;
   Chats: any;
   NewMessageChat: any;
   MessageInput: string = '';
   ScrollDown: boolean = false;
+  SendChat: boolean = false;
   ParentId: number | null = null;
+  disabled: boolean = false; 
 
   constructor(private navBarComponent: NavBarComponent,
               private historyService: HistoryService,
@@ -54,9 +57,11 @@ export class ChatComponent implements OnInit, AfterViewChecked {
     this.UserLogin = localStorage.getItem("Login");
     this.UserLogin = JSON.parse(this.UserLogin);
 
-    this.historyService.GetChatsBySession(0, this.UserLogin.id).subscribe((response: any) => {      
-      this.Histories = response.data
-    });
+    if(this.UserLogin.roleId == 3){
+      this.refreshComponent();
+    }
+
+    this.getChats();
 
     this.token! = localStorage.getItem("token");
 
@@ -66,6 +71,13 @@ export class ChatComponent implements OnInit, AfterViewChecked {
 
   }
 
+  getChats(){
+    this.historyService.GetChatsBySession(0, this.UserLogin.id).subscribe((response: any) => { 
+      this.Histories = response.data;
+      this.HistoryItems = response.data;
+    });
+  }
+
   refreshComponent() {
     this.dataSharingService.isPremium.next(true);
   }
@@ -73,12 +85,14 @@ export class ChatComponent implements OnInit, AfterViewChecked {
   getMessageByChat(ChatId: number){
     this.DiplayChat = false;
     this.ParentId = ChatId;
-    
+
     this.historyService.GetChatsBySession(ChatId, this.UserLogin.id).subscribe((response: any) => {
       this.Chats = [];
       this.Chats.push(this.Histories.find((x: any) => x.history.id == ChatId));      
       this.Chats = [...this.Chats, ...response.data];
       this.ScrollDown = true;
+      this.SendChat = false;
+      this.disabled = false;
     });
   }
 
@@ -94,10 +108,17 @@ export class ChatComponent implements OnInit, AfterViewChecked {
     this.MessageInput = '';
     this.ScrollDown = true;
     let currentDate = this.getDate();
+    this.SendChat = true;
+    this.disabled = true;
     
     this.historyService.AddHistory(this.UserLogin.id, currentDate, this.NewMessageChat, this.ParentId).subscribe((response: any) => {
-      console.log(response);
       
+      if (response.data.parentHistoryId == null) {
+        this.ParentId = response.data.id
+        this.getChats();
+      }
+      
+      this.getMessageByChat(this.ParentId!);
     });
   }
 
@@ -112,6 +133,24 @@ export class ChatComponent implements OnInit, AfterViewChecked {
     const seconds = currentDate.getSeconds();
     
     return `${year}-${month}-${day} ${hours}:${minutes}:${seconds}`;
+  }
+
+  onInputChange(event: Event): void {
+    const inputValue = (event.target as HTMLInputElement).value;
+
+    if (inputValue == "") {
+      this.getChats();
+    }else{
+      this.Histories = this.HistoryItems.filter((h: any) => h.history.question.toLowerCase().includes(inputValue.toLowerCase()))
+    }
+  }
+
+  deleteChats(ChatId: number){
+    this.historyService.DeleteHistory(ChatId).subscribe(() => {
+      this.getChats();
+      this.Chats = [];
+      this.ParentId = null;
+    })
   }
 
 }

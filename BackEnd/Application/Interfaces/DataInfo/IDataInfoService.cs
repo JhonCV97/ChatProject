@@ -8,5 +8,7 @@ namespace Application.Interfaces.DataInfo
     public interface IDataInfoService
     {
         Task<ApiResponse<bool>> AddDataInfo(List<DataInfoPostDto> request);
+        Task<ApiResponse<List<DataInfoDto>>> GetDataInfo();
+        void DeleteDataInfo(int RoleId);
     }
 }

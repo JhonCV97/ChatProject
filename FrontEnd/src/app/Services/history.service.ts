@@ -42,19 +42,13 @@ export class HistoryService {
     };
 
     return this._httpClient.post(`${this.url}/api/History`, request, {headers})
-      // .subscribe(
-      //   (response: any) => {
-      //     if (response.result) {
-      //       this.router.navigate(['/chat']);
-      //     }
-      //   },
-      //   error => {
-      //     console.error('Error:', error);
-      //   }
-      // );
   }
 
-  DeleteHistory(){
+  DeleteHistory(ChatId: number){
+    let token = localStorage.getItem("token");
+    const headers = new HttpHeaders({ 'Authorization': 'Bearer '+token });
+
+    return this._httpClient.delete(`${this.url}/api/History/${ChatId}`, {headers});
 
   }
   

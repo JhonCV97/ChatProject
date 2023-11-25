@@ -1,5 +1,6 @@
 ﻿using Application.Common.Exceptions;
 using Application.Common.Response;
+using Application.Cqrs.ConnectionChatGPT.Queries;
 using Application.Cqrs.History.Commands;
 using Application.Cqrs.History.Queries;
 using Application.Cqrs.User.Commands;
@@ -7,7 +8,9 @@ using Application.Cqrs.User.Queries;
 using Application.DTOs.History;
 using Application.DTOs.User;
 using Application.DTOs.UserHistory;
+using Application.Interfaces.ConnectionChatGPT;
 using Application.Interfaces.History;
+using Application.Services.ConnectionChatGPT;
 using AutoMapper;
 using Domain.Interfaces;
 using Infra.Data.Repository;
@@ -24,10 +27,12 @@ namespace Application.Services.History
     {
         private readonly IUnitOfWork _unitOfWork;
         private readonly IMapper _autoMapper;
-        public HistoryService(IUnitOfWork unitOfWork, IMapper autoMapper)
+        private readonly IConnectionChatGPT _connectionChatGPT;
+        public HistoryService(IUnitOfWork unitOfWork, IMapper autoMapper, IConnectionChatGPT connectionChatGPT)
         {
             _unitOfWork = unitOfWork;
             _autoMapper = autoMapper;
+            _connectionChatGPT = connectionChatGPT;
         }
 
         public async Task<ApiResponse<List<UserHistoryDto>>> GetChatsBySession(GetHistoryQueryBySession request)
@@ -36,11 +41,18 @@ namespace Application.Services.History
 
             try
             {
-                response.Data = _autoMapper.Map<List<UserHistoryDto>>(await _unitOfWork.UserHistoryRepository.Get()
+
+                var HistoriesList = _autoMapper.Map<List<UserHistoryDto>>(await _unitOfWork.UserHistoryRepository.Get()
                                                                                                            .Where(x => x.History.ParentHistoryId == request.ChatId && x.UserId == request.UserId)
                                                                                                             .Include(u => u.User)
                                                                                                             .Include(h => h.History)
                                                                                                             .ToListAsync());
+                if (request.ChatId == null)
+                {
+                    HistoriesList = HistoriesList.OrderByDescending(x => x.HistoryId).ToList();
+                }
+
+                response.Data = HistoriesList;
                 response.Result = true;
                 response.Message = "OK";
             }
@@ -60,6 +72,15 @@ namespace Application.Services.History
 
             try
             {
+                var getMessageChatGPTQuery = new GetMessageChatGPTQuery
+                {
+                    Question = request.historyDtoPost.Question
+                };
+
+                var answer = await _connectionChatGPT.GetMessageChat(getMessageChatGPTQuery);
+
+                request.historyDtoPost.Answer = answer.Data;
+
                 response.Data = _autoMapper.Map<HistoryDto>(await _unitOfWork.HistoryRepository.Add(_autoMapper.Map<Domain.Models.History>(request.historyDtoPost)));
                 
                 var userHistoryPostDto = new UserHistoryPostDto
@@ -113,7 +134,6 @@ namespace Application.Services.History
             }
             return response;
         }
-
 
         public async Task<bool> DeleteAllMessage(List<Domain.Models.History> histories)
         {

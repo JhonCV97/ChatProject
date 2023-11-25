@@ -1,16 +1,20 @@
 <form class="form-container" enctype='multipart/form-data'>
 	<div class="upload-files-container">
-		<div class="drag-file-area" #draggableFileArea>
+		<div class="drag-file-area"   id="file-drop-area"
+									(dragover)="onDragOver($event)"
+									(dragleave)="onDragLeave($event)"
+									(drop)="onDrop($event)">
 			<span class="material-icons-outlined upload-icon"> file_upload </span>
 			<h3 class="dynamic-message"> Arrastra y suelta cualquier archivo aquí </h3>
-			<label class="label"> o <span class="browse-files"> <input type="file" class="default-file-input"/> <span class="browse-files-text">Buscar Archivo</span> <br> <span> Desde Dispositivo</span> </span> </label>
+			<label class="label"> o <span class="browse-files"> <input type="file" (change)="onFileSelected($event)" class="default-file-input" accept=".xlsx"/> <span class="browse-files-text">Buscar Archivo</span> <br> <span> Desde Dispositivo</span> </span> </label>
 		</div>
 		<span class="cannot-upload-message"> <span class="material-icons-outlined">Error</span> Por favor seleccione un archivo <span class="material-icons-outlined cancel-alert-button">Cancelar</span> </span>
-		<div class="file-block">
-			<div class="file-info"> <span class="material-icons-outlined file-icon">Descripción</span> <span class="file-name"> </span> | <span class="file-size">  </span> </div>
-			<span class="material-icons remove-file-icon">Eliminar</span>
-			<div class="progress-bar" #progressBar> </div>
+		<div *ngIf="selectedFile">
+			<h5>Archivos Cargados</h5>
 		</div>
-		<button type="button" class="upload-button"> Cargar </button>
+		<div class="file-block" *ngIf="selectedFile">
+			<div style="display: flex;"><i class="material-icons">attach_file</i><p class="center" style="width: 90%;">{{selectedFile.name}}</p></div>
+		</div>
+		<button type="button" class="upload-button" (click)="uploadFile()"> Cargar </button>
 	</div>
 </form>

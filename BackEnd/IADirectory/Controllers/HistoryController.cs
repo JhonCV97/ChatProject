@@ -2,6 +2,7 @@
 using Application.Cqrs.History.Queries;
 using Application.Cqrs.User.Commands;
 using Application.Cqrs.User.Queries;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
@@ -11,6 +12,7 @@ namespace Api.ChatProject.Controllers
     [Route("api/[controller]")]
     [ApiController]
     [ApiExplorerSettings(GroupName = "History")]
+    [Authorize]
     public class HistoryController : ApiControllerBase
     {
         /// <summary>
@@ -43,7 +45,7 @@ namespace Api.ChatProject.Controllers
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteHistory(int Id)
         {
-            return Ok(await Mediator.Send(new DeleteUserCommand() { Id = Id }));
+            return Ok(await Mediator.Send(new DeleteHistoryCommand() { Id = Id }));
         }
     }
 }

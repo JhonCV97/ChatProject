@@ -16,13 +16,7 @@ namespace Application.Services.Scraping
 {
     public class ScrapingService : IScrapingService
     {
-        private readonly IDataInfoService _dataInfoService;
-        public ScrapingService(IDataInfoService dataInfoService)
-        {
-            _dataInfoService = dataInfoService;
-        }
-
-        public async void WebScraping()
+        public async Task<List<DataInfoPostDto>> WebScraping()
         {
             try
             {
@@ -50,18 +44,22 @@ namespace Application.Services.Scraping
                 if (links != null)
                 {
                     foreach (var link in links)
-                    {
+                    { 
                         string href = link.GetAttributeValue("href", "");
                         string linkText = link.InnerText;
                         var divAsociado = "";
                         if (href != "#" && href != "" && linkText != "" && href.Contains("http") && href.Contains("ucaldas") && !Urls.Contains(href))
                         {
                             var UrlsError = new string[] {
-                                "http://sig.ucaldas.edu.co/admiarchigestion/H0010-097-021-1.PDF"
+                                "http://sig.ucaldas.edu.co/admiarchigestion/H0010-097-021-1.PDF",
+                                "http://sig.ucaldas.edu.co/admiarchigestion/A-178.PDF",
+                                "http://sig.ucaldas.edu.co/admiarchigestion/A-178.PDF",
+                                "http://sig.ucaldas.edu.co/admiarchigestion/F-8960.PDF",
+                                "http://sig.ucaldas.edu.co/admiarchigestion/1100-109.PDF"
                             };
 
                             if (!UrlsError.Contains(href))
-                            {
+                            {                                
                                 HttpResponseMessage linkResponse = await httpClient.GetAsync(href);
                                 if (linkResponse.IsSuccessStatusCode)
                                 {
@@ -91,13 +89,16 @@ namespace Application.Services.Scraping
                     }
                 }
 
-                await _dataInfoService.AddDataInfo(ListDataInfo);
+
+                return ListDataInfo;
 
             }
             catch (Exception ex)
             {
 
             }
+
+            return null;
         }
     }
 }

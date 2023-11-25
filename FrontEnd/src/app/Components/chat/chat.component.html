@@ -4,7 +4,7 @@
       <div class="col s12" style="color: white;">
         <div class="input-field col s12 formmg" style="margin-top: 20px; margin-bottom:0px;">
           <i class="material-icons prefix">search</i>
-          <input id="icon_prefix" name="searchChat" type="text" class="validate" style="color: white;">
+          <input id="icon_prefix" name="searchChat" type="text" class="validate" style="color: white;" (input)="onInputChange($event)">
           <label for="icon_prefix">Buscar</label>
         </div>
       </div>
@@ -17,7 +17,11 @@
         <table class="highlight">
           <tbody>
             <tr class="TrHistory" *ngFor="let history of Histories">
-              <td (click)="getMessageByChat(history.history.id)">{{history.history.question}}</td>
+              <td class="HistoryTd"
+                (click)="getMessageByChat(history.history.id)">
+                <p class="history-p">{{history.history.question}}</p>
+                <i class="material-icons prefix" (click)="deleteChats(history.history.id)">clear</i>
+              </td>
             </tr>
           </tbody>
         </table>
@@ -33,12 +37,13 @@
           <p class="ChatAnswer">{{chat.history.answer}}</p>
         </div>
         <p class="ChatQuestion" *ngIf="DiplayChat">{{NewMessageChat}}</p>
+        <img src="../../assets/loading.gif" class="imgLoading" width="4%" *ngIf="SendChat">
       </div>
       <div class="col s11 divInput">
-        <input type="text" [(ngModel)]="MessageInput" id="message-input" placeholder="Escribe un mensaje" (keyup.enter)="newMessage()">
+        <input type="text" [(ngModel)]="MessageInput" id="message-input" placeholder="Escribe un mensaje" (keyup.enter)="newMessage()" [disabled]="disabled">
       </div>
       <div class="col s1 divButton">
-        <button class="btn waves-effect waves-light btlg1" (click)="newMessage()">
+        <button class="btn waves-effect waves-light btlg1" (click)="newMessage()" [disabled]="disabled">
           <i class="material-icons">send</i>
         </button>
       </div>

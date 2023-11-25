@@ -16,6 +16,7 @@ namespace Application.AutoMapper
             CreateMap<UserPostDto, User>();
             CreateMap<RoleDto, Role>();
             CreateMap<DataInfoDto, DataInfo>();
+            CreateMap<DataInfoPostDto, DataInfo>();
             CreateMap<HistoryDto, History>();
             CreateMap<HistoryDtoPost, History>();
             CreateMap<UserHistoryDto, UserHistory>();

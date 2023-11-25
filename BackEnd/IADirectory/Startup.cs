@@ -2,6 +2,7 @@ using Api.ChatProject.Configurations;
 using Api.ChatProject.Filters;
 using Application.Cqrs.User.Commands;
 using Application.Interfaces.Auths;
+using Application.Interfaces.ConnectionChatGPT;
 using Application.Interfaces.DataInfo;
 using Application.Interfaces.Email;
 using Application.Interfaces.History;
@@ -11,6 +12,7 @@ using Application.Interfaces.SendEmail;
 using Application.Interfaces.User;
 using Application.Options;
 using Application.Services.Auths;
+using Application.Services.ConnectionChatGPT;
 using Application.Services.DataInfo;
 using Application.Services.Email;
 using Application.Services.History;
@@ -18,6 +20,7 @@ using Application.Services.SaveImage;
 using Application.Services.Scraping;
 using Application.Services.SendEmail;
 using Application.Services.User;
+using Application.Services.WeeklyTaskService;
 using Domain.Interfaces;
 using Infra.Data.Context;
 using Infra.Data.Repository;
@@ -71,6 +74,8 @@ namespace ChatProject
             services.AddScoped<ISaveImage, SaveImage>();
             services.AddScoped<IDataInfoService, DataInfoService>();
             services.AddScoped<IScrapingService, ScrapingService>();
+            services.AddScoped<IConnectionChatGPT, ConnectionChatGPT>();
+            services.AddHostedService<WeeklyTaskService>();
             services.AddCors();
 
             services.AddControllersWithViews()
