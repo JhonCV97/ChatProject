@@ -5,7 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Betalgo.OpenAI.GPT3" Version="6.8.4" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.14" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.14">
       <PrivateAssets>all</PrivateAssets>

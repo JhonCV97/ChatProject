@@ -9,6 +9,7 @@
             <li *ngIf="isUserAdmin"><a href="/adminview">Inicio</a></li>
             <li><a href="/configuration">Editar Información</a></li>
             <li *ngIf="isUserAdmin"><a href="/loadexcel">Cargar Excel</a></li>
+            <li *ngIf="isUserAdmin"><a href="/report">Reporte</a></li>
             <li *ngIf="isUserAdmin"><a href="/listuser">Listar Usuarios</a></li>
             <li><a href="/" (click)="DeleteToken()">Cerrar Sesion</a></li>
         </ul>

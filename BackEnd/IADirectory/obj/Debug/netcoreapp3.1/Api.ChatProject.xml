@@ -39,6 +39,12 @@
             <param name="Id"></param>
             <returns></returns>
         </member>
+        <member name="M:Api.ChatProject.Controllers.HistoryController.GetReportHistory">
+            <summary>
+            Obtener Reporte
+            </summary>
+            <returns></returns>
+        </member>
         <member name="M:Api.ChatProject.Controllers.UserController.PostUser(Application.Cqrs.User.Commands.PostUserCommand)">
             <summary>
             Agrega un nuevo usuario en la base de datos

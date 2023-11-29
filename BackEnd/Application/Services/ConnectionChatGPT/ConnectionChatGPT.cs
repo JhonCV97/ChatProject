@@ -4,8 +4,11 @@ using Application.DTOs.User;
 using Application.Interfaces.ConnectionChatGPT;
 using Application.Interfaces.DataInfo;
 using AutoMapper;
+using DocumentFormat.OpenXml.Office2010.ExcelAc;
+using DocumentFormat.OpenXml.Spreadsheet;
 using Domain.Interfaces;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Internal;
 using RestSharp;
 using System;
 using System.Collections;
@@ -31,9 +34,9 @@ namespace Application.Services.ConnectionChatGPT
             _dataInfoService = dataInfoService;
         }
 
-        public async Task<string> ConnectionChat(string Question)
+        public async Task<string> ConnectionChat(string Question, int RoleId)
         {
-            string apiKey = "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"; // Reemplaza con tu clave API de OpenAI
+            string apiKey = "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"; 
 
             using (var client = new HttpClient())
             {
@@ -41,7 +44,7 @@ namespace Application.Services.ConnectionChatGPT
                 client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", apiKey);
                 client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
 
-                var HelpText = GetStringWithMoreCoincidences(Question);
+                var HelpText = GetStringWithMoreCoincidences(Question, RoleId);
 
                 var requestBody = new
                 {
@@ -86,7 +89,7 @@ namespace Application.Services.ConnectionChatGPT
 
             try
             {
-                response.Data = await ConnectionChat(request.Question);
+                response.Data = await ConnectionChat(request.Question, request.RoleId);
                 response.Result = true;
                 response.Message = "OK";
             }
@@ -99,31 +102,28 @@ namespace Application.Services.ConnectionChatGPT
             return response;
         }
 
-        public string GetStringWithMoreCoincidences(string Question)
+        public string GetStringWithMoreCoincidences(string Question, int RoleId)
         {
             var matchesByChain = new Dictionary<string, int>();
 
             var dataInfoList = _dataInfoService.GetDataInfo().Result.Data;
 
-            // Iterar sobre cada cadena en la lista
-            foreach (var String in dataInfoList)
+            dataInfoList = dataInfoList.Where(x => x.RoleId <= RoleId).ToList();
+
+            var wordsChain = Question.Split(' ');
+
+            var FilterDataInfo = wordsChain.Where(x => x.Length > 3).ToArray();
+
+            var UnitedList = dataInfoList.Select(x => x.QueryType + " " + x.Response).ToList();
+
+            var matchesByData = UnitedList.Select(data => new
             {
-                // Dividir las cadenas en palabras
-                var wordsChain = String.Response.Split(' ');
-                var wordsChainTitle = String.QueryType.Split(' ');
+                Data = data,
+                Coincidences = FilterDataInfo.Count(word => data.ToLower().Contains(word.ToLower()))
+            }).OrderByDescending(item => item.Coincidences)
+              .ToList();
 
-                // Contar las coincidencias con la cadena de parámetro
-                int coincidences = wordsChain.Count(word => Question.Contains(word, StringComparison.OrdinalIgnoreCase))
-                                    + wordsChain.Count(word => Question.Contains(word, StringComparison.OrdinalIgnoreCase));
-
-                // Agregar la cadena y la cantidad de coincidencias al diccionario
-                matchesByChain.Add(String.Response, coincidences);
-            }
-
-            // Encontrar la cadena con más coincidencias
-            var ChainWithMoreCoincidences = matchesByChain.OrderByDescending(kv => kv.Value).FirstOrDefault().Key;
-
-            return ChainWithMoreCoincidences;
+            return matchesByData.FirstOrDefault().Data;
         }
 
 

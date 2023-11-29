@@ -15,6 +15,7 @@ namespace Application.Cqrs.ConnectionChatGPT.Queries
     public class GetMessageChatGPTQuery : IRequest<ApiResponse<string>>
     {
         public string Question { get; set; }
+        public int RoleId { get; set; }
     }
     public class GetMessageChatGPTQueryHandler : IRequestHandler<GetMessageChatGPTQuery, ApiResponse<string>>
     {

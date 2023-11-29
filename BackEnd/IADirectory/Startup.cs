@@ -131,11 +131,11 @@ namespace ChatProject
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseStaticFiles(new StaticFileOptions
-            {
-                FileProvider = new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory(), "Resources", "PublicFiles", "Images")),
-                RequestPath = "/Images"
-            });
+            //app.UseStaticFiles(new StaticFileOptions
+            //{
+            //    FileProvider = new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory(), "Resources", "PublicFiles", "Images")),
+            //    RequestPath = "/Images"
+            //});
 
             app.UseCors(x => x
                 .AllowAnyMethod()

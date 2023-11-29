@@ -6,13 +6,18 @@ using Application.Cqrs.History.Queries;
 using Application.Cqrs.User.Commands;
 using Application.Cqrs.User.Queries;
 using Application.DTOs.History;
+using Application.DTOs.Report;
 using Application.DTOs.User;
 using Application.DTOs.UserHistory;
 using Application.Interfaces.ConnectionChatGPT;
 using Application.Interfaces.History;
+using Application.Interfaces.User;
 using Application.Services.ConnectionChatGPT;
+using Application.Services.User;
 using AutoMapper;
+using DocumentFormat.OpenXml.Office2010.ExcelAc;
 using Domain.Interfaces;
+using Domain.Models;
 using Infra.Data.Repository;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -74,7 +79,8 @@ namespace Application.Services.History
             {
                 var getMessageChatGPTQuery = new GetMessageChatGPTQuery
                 {
-                    Question = request.historyDtoPost.Question
+                    Question = request.historyDtoPost.Question,
+                    RoleId = request.RoleId
                 };
 
                 var answer = await _connectionChatGPT.GetMessageChat(getMessageChatGPTQuery);
@@ -151,6 +157,72 @@ namespace Application.Services.History
             }
 
             return true;
+        }
+
+        public async Task<ApiResponse<Report>> ReportHistory()
+        {
+            var response = new ApiResponse<Report>();
+            try
+            {
+                var ListHistory = _unitOfWork.HistoryRepository.Get().ToList();
+
+                var ListAnswerHistory = ListHistory.Select(history => history.Answer).Where(history => history != null).ToList();
+                var ListQuestionHistory = ListHistory.Select(history => history.Question).ToList();
+
+                var CountUserFree = _unitOfWork.UserRepository.Get().Where(x => x.RoleId == 2).Count();
+                var CountUserPremium = _unitOfWork.UserRepository.Get().Where(x => x.RoleId == 3).Count();
+                var MostRepeatedAnswer = FindMostRepeatedSentence(ListAnswerHistory);
+                var MostRepeatedQuestion = FindMostRepeatedSentence(ListQuestionHistory);
+
+                var report = new Report
+                {
+                    CountUserFree= CountUserFree,
+                    CountUserPremium= CountUserPremium,
+                    MostAskedQuestion = MostRepeatedQuestion,
+                    MostGivenAnswer = MostRepeatedAnswer
+                };
+
+                response.Data = report;
+                response.Result = true;
+                response.Message = "Ok";
+
+                return response;
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+
+        }
+
+        public string FindMostRepeatedSentence(List<string> SentenceList)
+        {
+            Dictionary<string, int> frequencySentence = new Dictionary<string, int>();
+
+            foreach (var Sentence in SentenceList)
+            {
+                var normalizedsentence = NormalizarOracion(Sentence);
+
+                if (!frequencySentence.ContainsKey(normalizedsentence))
+                {
+                    frequencySentence[normalizedsentence] = 1;
+                }
+                else
+                {
+                    frequencySentence[normalizedsentence]++;
+                }
+            }
+
+            var MostRepeatedSentence = frequencySentence
+                                                    .OrderByDescending(pair => pair.Value)
+                                                    .FirstOrDefault().Key;
+
+            return MostRepeatedSentence;
+        }
+
+        public string NormalizarOracion(string Sentence)
+        {
+            return Sentence.ToLower();
         }
 
     }

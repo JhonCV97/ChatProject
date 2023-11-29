@@ -38,6 +38,7 @@ namespace Application.Services.WeeklyTaskService
 
                     var DataInfoService = scope.ServiceProvider.GetRequiredService<IDataInfoService>();
                     DataInfoService.DeleteDataInfo(2);
+                    ListDataInfo.AddRange(DataInfoService.AddLocationData());
                     await DataInfoService.AddDataInfo(ListDataInfo);
                     
                 }

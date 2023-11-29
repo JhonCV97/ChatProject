@@ -9,6 +9,7 @@ import { PaypalComponent } from './Components/paypal/paypal.component';
 import { AdminViewComponent } from './Components/admin-view/admin-view.component';
 import { ExcelLoadComponent } from './Components/excel-load/excel-load.component';
 import { ListUserViewComponent } from './Components/list-user-view/list-user-view.component';
+import { ReportComponent } from './Components/report/report.component';
 
 const routes: Routes = [ 
   {path: '', component: SigninComponent},
@@ -20,6 +21,7 @@ const routes: Routes = [
   {path: 'adminview', component: AdminViewComponent},
   {path: 'loadexcel', component: ExcelLoadComponent},
   {path: 'listuser', component: ListUserViewComponent},
+  {path: 'report', component: ReportComponent},
   {path: '**', redirectTo: '/'}
 ];
 

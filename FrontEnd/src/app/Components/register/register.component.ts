@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder } from '@angular/forms';
+import { Router } from '@angular/router';
 import { AuthService } from 'src/app/Services/auth.service';
 
 declare let M: any;
@@ -12,7 +13,8 @@ declare let M: any;
 export class RegisterComponent implements OnInit{
 
   constructor(private authService: AuthService, 
-              private formBuilder: FormBuilder
+              private formBuilder: FormBuilder,
+              private router: Router
   ) {}
   
   formForSubmit: any;
@@ -43,7 +45,15 @@ export class RegisterComponent implements OnInit{
   AddUser(){
     if(this.formForSubmit.valid) {
       if (this.formForSubmit.controls["Password"].value == this.formForSubmit.controls["RewritePassword"].value) {
-        this.authService.AddUser(this.formForSubmit.controls["Email"].value, this.formForSubmit.controls["Password"].value, this.formForSubmit.controls["Name"].value);
+        this.authService.AddUser(this.formForSubmit.controls["Email"].value, this.formForSubmit.controls["Password"].value, this.formForSubmit.controls["Name"].value)
+        .subscribe(
+          (response: any) => {
+            if (response.result) {
+              M.toast({ html: 'Usuario Creado Correctamente', classes: 'green darken-1'});
+              this.router.navigate(['/']);
+            }
+          }
+        );
       }
     }
   }

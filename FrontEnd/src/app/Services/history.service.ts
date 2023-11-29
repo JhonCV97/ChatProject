@@ -26,13 +26,14 @@ export class HistoryService {
     return this._httpClient.get(urlQuery, {headers});
   }
 
-  AddHistory(UserId: number, QueryDate: string, Question: string, parentHistoryId: number | null){
+  AddHistory(UserId: number, QueryDate: string, Question: string, parentHistoryId: number | null, RoleId: number){
     
     let token = localStorage.getItem("token");
     const headers = new HttpHeaders({ 'Authorization': 'Bearer '+token });
 
     const request = {
       "userId": UserId,
+      "RoleId": RoleId,
       "historyDtoPost": {
         "queryDate": QueryDate,
         "question": Question,
@@ -50,6 +51,25 @@ export class HistoryService {
 
     return this._httpClient.delete(`${this.url}/api/History/${ChatId}`, {headers});
 
+  }
+
+  ReportHistory(){
+    let token = localStorage.getItem("token");
+    const headers = new HttpHeaders({ 'Authorization': 'Bearer '+token });
+
+    return this._httpClient.get(`${this.url}/api/History/ReportHistory`, {headers});
+  }
+
+  AddDataExcel(File: any){
+
+    const formData = new FormData();
+
+    formData.append('File', File);
+
+    let token = localStorage.getItem("token");
+    const headers = new HttpHeaders({ 'Authorization': 'Bearer '+token });
+
+    return this._httpClient.post(`${this.url}/api/DataInfo/AddExcelClass`, formData, {headers});
   }
   
 }

@@ -60,7 +60,26 @@ export class SigninComponent implements OnInit{
 
   login() {
     if(this.formForSubmit.valid) {
-      this.authService.Login(this.formForSubmit.controls["Email"].value, this.formForSubmit.controls["Password"].value);      
+      this.authService.Login(this.formForSubmit.controls["Email"].value, this.formForSubmit.controls["Password"].value)
+      .subscribe(
+        response => {
+
+          const responseData = JSON.parse(JSON.stringify(response));
+
+          localStorage.setItem("token", responseData.token);
+          localStorage.setItem('Login', JSON.stringify(responseData.user));
+
+          if (responseData.user.roleId == 1) {
+            this.router.navigate(['/adminview']);
+          }else{
+            this.router.navigate(['/chat']);
+          }
+        },
+        error => {
+          console.error('Error:', error);
+          M.toast({ html: 'Usuario o Contraseña Incorrectos', classes: 'red accent-3'});
+        }
+      );      
     }
   }
 

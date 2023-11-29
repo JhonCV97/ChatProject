@@ -12,7 +12,7 @@ namespace Api.ChatProject.Controllers
     [Route("api/[controller]")]
     [ApiController]
     [ApiExplorerSettings(GroupName = "History")]
-    [Authorize]
+    //[Authorize]
     public class HistoryController : ApiControllerBase
     {
         /// <summary>
@@ -46,6 +46,16 @@ namespace Api.ChatProject.Controllers
         public async Task<IActionResult> DeleteHistory(int Id)
         {
             return Ok(await Mediator.Send(new DeleteHistoryCommand() { Id = Id }));
+        }
+
+        /// <summary>
+        /// Obtener Reporte
+        /// </summary>
+        /// <returns></returns>
+        [HttpGet("ReportHistory")]
+        public async Task<IActionResult> GetReportHistory()
+        {
+            return Ok(await Mediator.Send(new ReportHistoryQuery()));
         }
     }
 }

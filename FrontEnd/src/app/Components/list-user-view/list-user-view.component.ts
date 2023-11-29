@@ -53,6 +53,7 @@ export class ListUserViewComponent implements OnInit {
   deleteUser(){
     this.authService.deleteUser(this.IdSelected!).subscribe(() => {
       this.getUser();
+      M.toast({ html: 'Usuario Eliminado Correctamente', classes: 'green darken-1'});
     });
   }
 

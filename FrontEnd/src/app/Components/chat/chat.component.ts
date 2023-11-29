@@ -111,7 +111,7 @@ export class ChatComponent implements OnInit, AfterViewChecked {
     this.SendChat = true;
     this.disabled = true;
     
-    this.historyService.AddHistory(this.UserLogin.id, currentDate, this.NewMessageChat, this.ParentId).subscribe((response: any) => {
+    this.historyService.AddHistory(this.UserLogin.id, currentDate, this.NewMessageChat, this.ParentId, this.UserLogin.roleId).subscribe((response: any) => {
       
       if (response.data.parentHistoryId == null) {
         this.ParentId = response.data.id

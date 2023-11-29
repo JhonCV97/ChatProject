@@ -45,10 +45,6 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
-            "Betalgo.OpenAI.GPT3": {
-              "target": "Package",
-              "version": "[6.8.4, )"
-            },
             "Microsoft.AspNetCore.Mvc.Abstractions": {
               "target": "Package",
               "version": "[2.2.0, )"

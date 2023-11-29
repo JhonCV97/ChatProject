@@ -27,25 +27,8 @@ export class AuthService {
       "password": password
     };
 
-    return this._httpClient.post(`${this.url}/api/auth-token`, request, { headers })
-      .subscribe(
-        response => {
-
-          const responseData = JSON.parse(JSON.stringify(response));
-
-          localStorage.setItem("token", responseData.token);
-          localStorage.setItem('Login', JSON.stringify(responseData.user));
-
-          if (responseData.user.roleId == 1) {
-            this.router.navigate(['/adminview']);
-          }else{
-            this.router.navigate(['/chat']);
-          }
-        },
-        error => {
-          console.error('Error:', error);
-        }
-      );
+    return this._httpClient.post(`${this.url}/api/auth-token`, request, { headers });
+      
   }
 
   getUserById(Id: string){
@@ -115,17 +98,7 @@ export class AuthService {
       }
     };
 
-    return this._httpClient.post(`${this.url}/api/User`, request)
-      .subscribe(
-        (response: any) => {
-          if (response.result) {
-            this.router.navigate(['/']);
-          }
-        },
-        error => {
-          console.error('Error:', error);
-        }
-      );
+    return this._httpClient.post(`${this.url}/api/User`, request);
   }
 
   SendEmail(email: string) {

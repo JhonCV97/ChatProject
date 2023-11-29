@@ -2,6 +2,7 @@
 using Application.Cqrs.History.Commands;
 using Application.Cqrs.History.Queries;
 using Application.DTOs.History;
+using Application.DTOs.Report;
 using Application.DTOs.UserHistory;
 using System.Collections.Generic;
 using System.Threading.Tasks;
@@ -13,5 +14,6 @@ namespace Application.Interfaces.History
         Task<ApiResponse<HistoryDto>> AddHistory(PostHistoryCommand request);
         Task<ApiResponse<List<UserHistoryDto>>> GetChatsBySession(GetHistoryQueryBySession request);
         Task<ApiResponse<bool>> DeleteHistory(DeleteHistoryCommand request);
+        Task<ApiResponse<Report>> ReportHistory();
     }
 }

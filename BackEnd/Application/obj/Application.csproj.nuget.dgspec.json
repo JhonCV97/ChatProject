@@ -57,9 +57,17 @@
               "target": "Package",
               "version": "[12.0.1, )"
             },
-            "Betalgo.OpenAI.GPT3": {
+            "ClosedXML": {
               "target": "Package",
-              "version": "[6.8.4, )"
+              "version": "[0.102.1, )"
+            },
+            "F23.StringSimilarity": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "FuzzySharp": {
+              "target": "Package",
+              "version": "[2.0.2, )"
             },
             "HtmlAgilityPack": {
               "target": "Package",
@@ -92,6 +100,10 @@
             "RestSharp": {
               "target": "Package",
               "version": "[110.2.0, )"
+            },
+            "StringSimilarity": {
+              "target": "Package",
+              "version": "[1.0.2.1, )"
             },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
@@ -159,10 +171,6 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
-            "Betalgo.OpenAI.GPT3": {
-              "target": "Package",
-              "version": "[6.8.4, )"
-            },
             "Microsoft.AspNetCore.Mvc.Abstractions": {
               "target": "Package",
               "version": "[2.2.0, )"

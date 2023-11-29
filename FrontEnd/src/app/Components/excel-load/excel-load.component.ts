@@ -1,11 +1,14 @@
 import { Component, Injectable, OnInit } from '@angular/core';
 import { BehaviorSubject } from 'rxjs';
 import { NavBarComponent } from '../nav-bar/nav-bar.component';
+import { HistoryService } from 'src/app/Services/history.service';
 
 @Injectable()
 export class DataSharingService {
     public isUserLoggedIn: BehaviorSubject<boolean> = new BehaviorSubject<boolean>(false);
 }
+
+declare let M: any;
 
 @Component({
   selector: 'app-excel-load',
@@ -17,7 +20,8 @@ export class ExcelLoadComponent implements OnInit {
   token: any;
   selectedFile: File | null = null;
 
-  constructor(private navBarComponent: NavBarComponent) {}
+  constructor(private navBarComponent: NavBarComponent,
+              private historyService: HistoryService) {}
   
   ngOnInit(): void {
 
@@ -63,9 +67,12 @@ export class ExcelLoadComponent implements OnInit {
 
   uploadFile(){
     if (this.selectedFile) {
-      console.log('Archivo seleccionado:', this.selectedFile);
-    } else {
-      console.log('No se ha seleccionado ningún archivo.');
+      this.historyService.AddDataExcel(this.selectedFile).subscribe((response: any) => {
+        if (response.data) {
+          M.toast({ html: 'Datos Cargados Correctamente', classes: 'green darken-1'});
+          this.selectedFile = null;
+        }
+      });
     }
   }
 
